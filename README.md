@@ -40,8 +40,8 @@ This repository is where we keep our side of those licences:
 
 | Release | Type | Distributed | Package list |
 |---|---|---|---|
-| `OHOS_v2.0.1.0` image r5 | Flashable image | October 2026 | [`releases/OHOS_v2.0.1.0-r5`](releases/OHOS_v2.0.1.0-r5) |
-| `OHOS_v2.0.1.0` images r1 to r4 | Flashable image | October 2026 | [`releases/`](releases/README.md) |
+| `OHOS_v2.0.1.0` image r6 | Flashable image | October 2026 | [`releases/OHOS_v2.0.1.0-r6`](releases/OHOS_v2.0.1.0-r6) |
+| `OHOS_v2.0.1.0` images r1 to r5 | Flashable image | October 2026 | [`releases/`](releases/README.md) |
 | Update bundles, `v1.0.2.1` to `OHOS_v2.0.1.0` | Device updates | June to October 2026 | [`releases/update-bundles`](releases/update-bundles) |
 
 ## Get the source

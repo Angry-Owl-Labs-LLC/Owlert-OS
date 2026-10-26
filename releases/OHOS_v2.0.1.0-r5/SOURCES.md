@@ -6,7 +6,7 @@ support@owlertos.com with the subject "Owlert OS source request" and we send a d
 
 | Part | Source | Archive |
 |---|---|---|
-| Linux kernel `7.0.0-g122c2c22d838` | `arduino/linux-qcom` @ `122c2c22d838` + config | being attached |
+| Linux kernel `7.0.0-g122c2c22d838` | `arduino/linux-qcom` @ `122c2c22d838` (config: with r6's) | attached: [`kernel-7.0.0-g122c2c22d838`](../../../../releases/tag/kernel-7.0.0-g122c2c22d838) |
 | Debian packages (294 source packages with GPL/LGPL parts; see `packages.tsv`) | exact source package versions, from Debian's archive and snapshot.debian.org | being assembled |
 | Qualcomm overlay packages (`pipewire 1.4.2-1~qcom1`, `webkit2gtk 2.48.3-1qcom1`, `hexagon-dsp-binaries`) | Qualcomm's package sources at those versions | being assembled |
 | Arduino packages (`android-platform-tools 34.0.5-12arduino7`, `alsa-ucm-conf 1.2.14-1qcom0.1arduino3`) | Arduino's package sources at those versions | being assembled |
