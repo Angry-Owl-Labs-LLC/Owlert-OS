@@ -1,0 +1,756 @@
+package	version	source	source_version	licences
+adbd	34.0.5-12arduino7	android-platform-tools	34.0.5-12arduino7	Apache-2.0, BSD-2-clause, BSD-3-clause, Expat, Expat-with-optional-exception, Khronos, NICTA-BSD-3-clause, PSF, public-domain
+adduser	3.152	adduser	3.152	GPL-2+
+alsa-topology-conf	1.2.5.1-3	alsa-topology-conf	1.2.5.1-3	BSD-3-clause
+alsa-ucm-conf	1.2.14-1qcom0.1arduino3	alsa-ucm-conf	1.2.14-1qcom0.1arduino3	BSD-3-clause
+alsa-utils	1.2.14-1	alsa-utils	1.2.14-1	GPL-2, LGPL-2+
+android-libbase	1:34.0.5-12arduino7	android-platform-tools	34.0.5-12arduino7	Apache-2.0, BSD-2-clause, BSD-3-clause, Expat, Expat-with-optional-exception, Khronos, NICTA-BSD-3-clause, PSF, public-domain
+android-libboringssl	14.0.0+r45-2	android-platform-external-boringssl	14.0.0+r45-2	Apache-2.0, BSD-3-clause, Expat, ISC, OpenSSL, OpenSSL and SSLeay, SSLeay, public-domain
+android-libcutils	1:34.0.5-12arduino7	android-platform-tools	34.0.5-12arduino7	Apache-2.0, BSD-2-clause, BSD-3-clause, Expat, Expat-with-optional-exception, Khronos, NICTA-BSD-3-clause, PSF, public-domain
+android-liblog	1:34.0.5-12arduino7	android-platform-tools	34.0.5-12arduino7	Apache-2.0, BSD-2-clause, BSD-3-clause, Expat, Expat-with-optional-exception, Khronos, NICTA-BSD-3-clause, PSF, public-domain
+apparmor	4.1.0-1	apparmor	4.1.0-1	BSD-3-clause, BSD-3-clause or GPL-2+, GPL-2, GPL-2+, LGPL-2.1+
+apt	3.0.3	apt	3.0.3	BSD-3-clause, Expat, GPL-2, GPL-2+, GPL-2+ and curl, curl
+apt-listchanges	4.8	apt-listchanges	4.8	GPL-2+
+apt-utils	3.0.3	apt	3.0.3	BSD-3-clause, Expat, GPL-2, GPL-2+, GPL-2+ and curl, curl
+avahi-daemon	0.8-16	avahi	0.8-16	see copyright file
+base-files	13.8+deb13u5	base-files	13.8+deb13u5	GPL-2+, verbatim
+base-passwd	3.6.7	base-passwd	3.6.7	GPL-2, public-domain
+bash	5.2.37-2+b9	bash	5.2.37-2	BSD-4-clause-UC, BSD-4-clause-UC and MIT-like, GFDL-NIV-1.3, GPL-2+, GPL-3+, GPL-3+ with Bison exception, Latex2e, MIT-like, permissive
+bash-completion	1:2.16.0-7	bash-completion	1:2.16.0-7	GPL-2+
+bc	1.07.1-4+b1	bc	1.07.1-4	GPL-2.0+, GPL-2.0+ with Texinfo exception, X11 and public-domain, permissive, permissive'
+bind9-dnsutils	1:9.20.23-1~deb13u1	bind9	1:9.20.23-1~deb13u1	BSD-2-clause, BSD-3-clause, CC0-1.0, FSFAP, ISC, ISC or MPL-2.0, MPL-2.0, MPL-2.0 and ISC, MPL-2.0 and ISC and BSD-2-clause and BSD-3-clause, MPL-2.0 and public-domain
+bind9-host	1:9.20.23-1~deb13u1	bind9	1:9.20.23-1~deb13u1	BSD-2-clause, BSD-3-clause, CC0-1.0, FSFAP, ISC, ISC or MPL-2.0, MPL-2.0, MPL-2.0 and ISC, MPL-2.0 and ISC and BSD-2-clause and BSD-3-clause, MPL-2.0 and public-domain
+bind9-libs	1:9.20.23-1~deb13u1	bind9	1:9.20.23-1~deb13u1	BSD-2-clause, BSD-3-clause, CC0-1.0, FSFAP, ISC, ISC or MPL-2.0, MPL-2.0, MPL-2.0 and ISC, MPL-2.0 and ISC and BSD-2-clause and BSD-3-clause, MPL-2.0 and public-domain
+bluez	5.82-1.1	bluez	5.82-1.1	Apache-2.0, BSD-2-clause, GPL-2+, LGPL-2.1+
+bolt	0.9.8-1+b1	bolt	0.9.8-1	LGPL-2.1+
+bsdextrautils	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+bsdutils	1:2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+busybox	1:1.37.0-6+b8	busybox	1:1.37.0-6	see copyright file
+bzip2	1.0.8-6	bzip2	1.0.8-6	BSD-variant, GPL-2
+ca-certificates	20250419	ca-certificates	20250419	GPL-2+, MPL-2.0
+clinfo	3.0.25.02.14-1	clinfo	3.0.25.02.14-1	CC0-1.0, GPL-3.0+
+cloud-guest-utils	0.33-1	cloud-utils	0.33-1	GPL-3
+containerd	1.7.24~ds1-6+deb13u1	containerd	1.7.24~ds1-6+deb13u1	Apache-2.0, BSD-2-Clause, CC-BY-SA-4.0, Go
+coreutils	9.7-3	coreutils	9.7-3	BSD-4-clause-UC, FSFULLR, GFDL-NIV-1.3, GPL-3+, GPL-3+ and BSD-4-clause-UC, GPL-3+ and ISC, ISC
+cpio	2.15+dfsg-2	cpio	2.15+dfsg-2	GPL-3+, LGPL-3+
+criu	4.1.1-1	criu	4.1.1-1	GPL-2, GPL-2+, LGPL-2.1+
+cron	3.0pl1-197	cron	3.0pl1-197	Artistic, GPL-1+, GPL-1+ or Artistic, GPL-2+, ISC, Paul-Vixie's-license, Paul-Vixie's-license and GPL-2+ and ISC
+cron-daemon-common	3.0pl1-197	cron	3.0pl1-197	Artistic, GPL-1+, GPL-1+ or Artistic, GPL-2+, ISC, Paul-Vixie's-license, Paul-Vixie's-license and GPL-2+ and ISC
+curl	8.14.1-2+deb13u3	curl	8.14.1-2+deb13u3	BSD-3-Clause, BSD-3-clause, BSD-4-Clause-UC, FSFULLR, GPL-2+ with Autoconf-data exception, GPL-2+ with Libtool exception, GPL-3+ with Autoconf-data exception, ISC, OLDAP-2.8, X11, curl, curl and ISC
+dash	0.5.12-12	dash	0.5.12-12	BSD-3-Clause, BSD-3-clause, GPL-2+, public-domain
+dbus	1.16.2-2	dbus	1.16.2-2	AFL-2.1, BSD-3-clause, BSD-3-clause and BSD-3-clause-generic, BSD-3-clause-generic, Expat, GPL-2+, GPL-2+ or AFL-2.1, and Expat and Tcl-BSDish, LGPL-2.1+, Tcl-BSDish, g10-permissive
+dbus-bin	1.16.2-2	dbus	1.16.2-2	AFL-2.1, BSD-3-clause, BSD-3-clause and BSD-3-clause-generic, BSD-3-clause-generic, Expat, GPL-2+, GPL-2+ or AFL-2.1, and Expat and Tcl-BSDish, LGPL-2.1+, Tcl-BSDish, g10-permissive
+dbus-daemon	1.16.2-2	dbus	1.16.2-2	AFL-2.1, BSD-3-clause, BSD-3-clause and BSD-3-clause-generic, BSD-3-clause-generic, Expat, GPL-2+, GPL-2+ or AFL-2.1, and Expat and Tcl-BSDish, LGPL-2.1+, Tcl-BSDish, g10-permissive
+dbus-session-bus-common	1.16.2-2	dbus	1.16.2-2	AFL-2.1, BSD-3-clause, BSD-3-clause and BSD-3-clause-generic, BSD-3-clause-generic, Expat, GPL-2+, GPL-2+ or AFL-2.1, and Expat and Tcl-BSDish, LGPL-2.1+, Tcl-BSDish, g10-permissive
+dbus-system-bus-common	1.16.2-2	dbus	1.16.2-2	AFL-2.1, BSD-3-clause, BSD-3-clause and BSD-3-clause-generic, BSD-3-clause-generic, Expat, GPL-2+, GPL-2+ or AFL-2.1, and Expat and Tcl-BSDish, LGPL-2.1+, Tcl-BSDish, g10-permissive
+dbus-user-session	1.16.2-2	dbus	1.16.2-2	AFL-2.1, BSD-3-clause, BSD-3-clause and BSD-3-clause-generic, BSD-3-clause-generic, Expat, GPL-2+, GPL-2+ or AFL-2.1, and Expat and Tcl-BSDish, LGPL-2.1+, Tcl-BSDish, g10-permissive
+dconf-gsettings-backend	0.40.0-5	dconf	0.40.0-5	GPL-3, LGPL-2+
+dconf-service	0.40.0-5	dconf	0.40.0-5	GPL-3, LGPL-2+
+debconf	1.5.91	debconf	1.5.91	BSD-2-clause
+debconf-i18n	1.5.91	debconf	1.5.91	no copyright file
+debian-archive-keyring	2025.1	debian-archive-keyring	2025.1	see copyright file
+debian-faq	12.2	debian-faq	12.2	see copyright file
+debianutils	5.23.2	debianutils	5.23.2	GPL-2+, SMAIL-GPL, public-domain
+desktop-base	13.0.4	desktop-base	13.0.4	CC-BY-SA-3.0, GPL-2, GPL-2+, GPL-3+, GPL-3+ or CC-BY-SA-3.0
+desktop-file-utils	0.28-1	desktop-file-utils	0.28-1	GPL-2+
+device-tree-compiler	1.7.2-2+b1	device-tree-compiler	1.7.2-2	BSD-2-clause, GPL-2+, GPL-2+ or BSD-2-clause, LGPL-2.1+
+dhcpcd-base	1:10.1.0-11+deb13u2	dhcpcd	1:10.1.0-11+deb13u2	BSD-2-Clause-NetBSD, BSD-2-clause, BSD-3-clause, Expat, GPL-3+, ISC, public-domain
+diffutils	1:3.10-4	diffutils	1:3.10-4	FSFAP, FSFULLR, GFDL-NIV-1.3, GPL-2+, GPL-3+, GPL-3+ and FSFULLR, GPL-3+ with autoconf exception, GPL-3+ with texinfo exception, LGPL-2.0+, LGPL-2.1+, LGPL-3.0+, LGPL-3.0+ or GPL-2+, X11, public-domain
+dirmngr	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+distro-info-data	0.66+deb13u2	distro-info-data	0.66+deb13u2	ISC
+dmidecode	3.6-2	dmidecode	3.6-2	GPL-2+
+dmsetup	2:1.02.205-2	lvm2	2.03.31-2	BSD-2-Clause, GPL-2.0, GPL-2.0+, LGPL-2.1
+dns-root-data	2025080400~deb13u1	dns-root-data	2025080400~deb13u1	Expat, ICANN-Public
+dnsmasq-base	2.91-1+deb13u1	dnsmasq	2.91-1+deb13u1	GPL-2, GPL-2 or GPL-3, GPL-3
+doc-debian	11.3+nmu1	doc-debian	11.3+nmu1	see copyright file
+docker-buildx	0.13.1+ds1-3	docker-buildx	0.13.1+ds1-3	Apache-2.0, MPL-2.0
+docker-cli	26.1.5+dfsg1-9+b13	docker.io	26.1.5+dfsg1-9	Apache-2.0, BSD-3-clause-Generic, BSD-3-clause-Google, Expat, GPL-2
+docker-compose	2.26.1-4	docker-compose	2.26.1-4	Apache-2.0
+docker.io	26.1.5+dfsg1-9+b13	docker.io	26.1.5+dfsg1-9	Apache-2.0, BSD-3-clause-Generic, BSD-3-clause-Google, Expat, GPL-2
+dosfstools	4.2-1.2	dosfstools	4.2-1.2	GPL-3+, public-domain
+dpkg	1.22.22	dpkg	1.22.22	GPL-2+, public-domain-s-s-d
+dracut-install	106-6	dracut	106-6	BSD-3-clause, GPL-2+, LGPL-2.1+
+e2fsprogs	1.47.2-3+b11	e2fsprogs	1.47.2-3	0BSD, Apache-2, BSD-3-Clause, BSD-3-Clause-Variant, BSD-4-Clause-CMU, Expat, GPL or MIT-US-export, GPL-2, GPL-2+, GPL-2+ with Texinfo exception, ISC, Kazlib, LGPL-2, Latex2e
+e2fsprogs-l10n	1.47.2-3	e2fsprogs	1.47.2-3	0BSD, Apache-2, BSD-3-Clause, BSD-3-Clause-Variant, BSD-4-Clause-CMU, Expat, GPL or MIT-US-export, GPL-2, GPL-2+, GPL-2+ with Texinfo exception, ISC, Kazlib, LGPL-2, Latex2e
+efibootmgr	18-2+b1	efibootmgr	18-2	GPL-2.0+
+eject	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+evemu-tools	2.7.0-4+b1	evemu	2.7.0-4	GPL-3, LGPL-3
+evtest	1:1.35-1+b1	evtest	1:1.35-1	GPL-2.0+
+exfatprogs	1.2.9-1+deb13u1	exfatprogs	1.2.9-1+deb13u1	see copyright file
+fdisk	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+file	1:5.46-5	file	1:5.46-5	BSD-2-Clause-alike, BSD-2-Clause-netbsd, BSD-2-Clause-regents, MIT-Old-Style-with-legal-disclaimer-2, public-domain
+findutils	4.10.0-3	findutils	4.10.0-3	BSD-3-clause, BSD-3-clause or GPL-3+, BSD-3-clause or LGPL-2.1+, BSD-3-clause or LGPL-3+, FSFAP, FSFULLR, FSFULLR or GPL or LGPL, GFDL-NIV-1.3+, GFDL-NIV-1.3+ or GFDL-NIV-1.3+, GPL, GPL with automake exception, GPL-2+, GPL-2+ with Autoconf-data exception, GPL-3+, GPL-3+ with Autoconf-data exception, GPL-3+ with Bison-2.2 exception, ISC, ISC or LGPL-2.1+, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3, LGPL-3+, X11, public-domain
+firmware-atheros	20260410-1~bpo13+1	firmware-nonfree	20260410-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-2-clause-Myricom, BSD-2-clause-OpenIB.org, BSD-3-clause-3Com, BSD-3-clause-Agere, BSD-3-clause-Bosch, BSD-3-clause-Ikanos, BSD-3-clause-Intel, BSD-3-clause-Linaro, BSD-3-clause-Qualcomm, BSD-4-clause-Kawasaki-LSI, CC0-1.0, GPL-2, GPL-2 or MPL-1.1, GPL-2+, GPL-3, MPL-1.1, binary-redist-AMD-permissive, binary-redist-AMD-restrictive, binary-redist-AMD-restrictive-2, binary-redist-Abilis, binary-redist-Aeonsemi, binary-redist-Airoha, binary-redist-Amlogic-vdec, binary-redist-Amphion, binary-redist-Arm-CSF, binary-redist-Atheros, binary-redist-Broadcom-wifi, binary-redist-Cadence, binary-redist-Cavium, binary-redist-Chelsio, binary-redist-Chips-Media, binary-redist-Cirrus, binary-redist-Comtrol, binary-redist-Conexant, binary-redist-Creative, binary-redist-Cypress, binary-redist-DiBcom, binary-redist-ENE, binary-redist-EULA-Hauppuage, binary-redist-EULA-Intel-Pro-Wireless, binary-redist-HP, binary-redist-ITEtech, binary-redist-Imagination, binary-redist-Intel, binary-redist-Intel-1, binary-redist-Intel-2, binary-redist-Intel-3, binary-redist-Intel-Ice-enhanced, binary-redist-Intel-narrower-patent, binary-redist-Lenovo-PC-HK, binary-redist-Lontium, binary-redist-MTS, binary-redist-Marvell, binary-redist-Marvell-OLPC, binary-redist-Matrox, binary-redist-MediaTek, binary-redist-Microchip, binary-redist-Micronas, binary-redist-Moxa, binary-redist-NXP-1, binary-redist-NXP-2, binary-redist-NXP-SDMA, binary-redist-NetLogic, binary-redist-Netronome, binary-redist-Nvidia, binary-redist-QLogic-1, binary-redist-QLogic-2, binary-redist-QLogic-3, binary-redist-QLogic-4, binary-redist-QLogic-BR-series, binary-redist-Qualcomm-Atheros, binary-redist-Qualcomm-Atheros-2, binary-redist-Qualcomm-Atheros-3, binary-redist-Qualcomm-media, binary-redist-Qualcomm-media-2, binary-redist-Ralink, binary-redist-Realtek-permissive, binary-redist-Realtek-restrictive, binary-redist-Renesas, binary-redist-Rockchip, binary-redist-STMicro, binary-redist-Samsung, binary-redist-Sensoray, binary-redist-Siano, binary-redist-Silicon-Labs, binary-redist-Synopsys-Renesas, binary-redist-Terratec, binary-redist-Texas-Instruments, binary-redist-Texas-Instruments-TSPA, binary-redist-VIA-vt6656, binary-redist-Xceive, binary-redist-dell, binary-redist-firmware, permissive-Advansys, permissive-BayCom, verbatim-FSF
+firmware-qcom-dsp	0~20260110-0qcom1~bpo1	hexagon-dsp-binaries	0~20260110-0qcom1~bpo1	CC0-1.0, GPL-2, MIT, binary-redist-Qualcomm-hexagon, binary-redist-Qualcomm-hexagon-2, binary-redist-Qualcomm-media, binary-redist-Qualcomm-media-2
+firmware-qcom-soc	20260410-1~bpo13+1	firmware-nonfree	20260410-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-2-clause-Myricom, BSD-2-clause-OpenIB.org, BSD-3-clause-3Com, BSD-3-clause-Agere, BSD-3-clause-Bosch, BSD-3-clause-Ikanos, BSD-3-clause-Intel, BSD-3-clause-Linaro, BSD-3-clause-Qualcomm, BSD-4-clause-Kawasaki-LSI, CC0-1.0, GPL-2, GPL-2 or MPL-1.1, GPL-2+, GPL-3, MPL-1.1, binary-redist-AMD-permissive, binary-redist-AMD-restrictive, binary-redist-AMD-restrictive-2, binary-redist-Abilis, binary-redist-Aeonsemi, binary-redist-Airoha, binary-redist-Amlogic-vdec, binary-redist-Amphion, binary-redist-Arm-CSF, binary-redist-Atheros, binary-redist-Broadcom-wifi, binary-redist-Cadence, binary-redist-Cavium, binary-redist-Chelsio, binary-redist-Chips-Media, binary-redist-Cirrus, binary-redist-Comtrol, binary-redist-Conexant, binary-redist-Creative, binary-redist-Cypress, binary-redist-DiBcom, binary-redist-ENE, binary-redist-EULA-Hauppuage, binary-redist-EULA-Intel-Pro-Wireless, binary-redist-HP, binary-redist-ITEtech, binary-redist-Imagination, binary-redist-Intel, binary-redist-Intel-1, binary-redist-Intel-2, binary-redist-Intel-3, binary-redist-Intel-Ice-enhanced, binary-redist-Intel-narrower-patent, binary-redist-Lenovo-PC-HK, binary-redist-Lontium, binary-redist-MTS, binary-redist-Marvell, binary-redist-Marvell-OLPC, binary-redist-Matrox, binary-redist-MediaTek, binary-redist-Microchip, binary-redist-Micronas, binary-redist-Moxa, binary-redist-NXP-1, binary-redist-NXP-2, binary-redist-NXP-SDMA, binary-redist-NetLogic, binary-redist-Netronome, binary-redist-Nvidia, binary-redist-QLogic-1, binary-redist-QLogic-2, binary-redist-QLogic-3, binary-redist-QLogic-4, binary-redist-QLogic-BR-series, binary-redist-Qualcomm-Atheros, binary-redist-Qualcomm-Atheros-2, binary-redist-Qualcomm-Atheros-3, binary-redist-Qualcomm-media, binary-redist-Qualcomm-media-2, binary-redist-Ralink, binary-redist-Realtek-permissive, binary-redist-Realtek-restrictive, binary-redist-Renesas, binary-redist-Rockchip, binary-redist-STMicro, binary-redist-Samsung, binary-redist-Sensoray, binary-redist-Siano, binary-redist-Silicon-Labs, binary-redist-Synopsys-Renesas, binary-redist-Terratec, binary-redist-Texas-Instruments, binary-redist-Texas-Instruments-TSPA, binary-redist-VIA-vt6656, binary-redist-Xceive, binary-redist-dell, binary-redist-firmware, permissive-Advansys, permissive-BayCom, verbatim-FSF
+fontconfig	2.15.0-2.3	fontconfig	2.15.0-2.3	see copyright file
+fontconfig-config	2.15.0-2.3	fontconfig	2.15.0-2.3	see copyright file
+fonts-dejavu-core	2.37-8	fonts-dejavu	2.37-8	GPL-2+, bitstream-vera
+fonts-dejavu-mono	2.37-8	fonts-dejavu	2.37-8	GPL-2+, bitstream-vera
+fonts-quicksand	0.2016-2.1	fonts-quicksand	0.2016-2.1	GPL-2+, OFL-1.1
+fonts-symbola	2.60-2	ttf-ancient-fonts	2.60-2	see copyright file
+fuse3	3.17.2-3	fuse3	3.17.2-3	GPL-2, GPL-2+, LGPL-2.1
+fwupd	2.0.8-3+deb13u1	fwupd	2.0.8-3+deb13u1	CC0-1.0, LGPL-2.1-or-later
+fwupd-arm64-signed	1:1.7+1	fwupd-arm64-signed	1:1.7+1	CC0-1.0, LGPL-2.1+
+gcc-14-base	14.2.0-19	gcc-14	14.2.0-19	see copyright file
+gdisk	1.0.10-2+b1	gdisk	1.0.10-2	LGPL-2.0+
+gettext-base	0.23.1-2	gettext	0.23.1-2	FDL-1.2+, FDL-1.2+ or GPL-2+, GPL-2+, GPL-3+, LGPL-2.1+
+gir1.2-girepository-2.0	1.84.0-1	gobject-introspection	1.84.0-1	AFL-2.0, AFL-2.0 or LGPL-2.1+, Apache-2.0 with LLVM exception, BSD-2-clause, CC-BY-SA-3.0, CC0-1.0, Expat, Expat and GPL-2+, Expat or LGPL-2+, FSFAP, FSFAP and FSFULLR, FSFULLR, GPL with Autoconf exception, GPL-2+, GPL-2+ and LGPL-2+ and Expat, Kuchling-PD, LGPL-2, LGPL-2 or MPL-1.1, LGPL-2+, LGPL-2+ and LGPL-2.1+ and FSFULLR and CC0-1.0, LGPL-2.1+, LGPL-2.1+ and Kuchling-PD and Plumb-PD, LGPL-3+, MPL-1.1, Plumb-PD, Unicode-DFS-2016, bzip2-1.0.6
+gir1.2-glib-2.0	2.84.4-3~deb13u3	glib2.0	2.84.4-3~deb13u3	AFL-2.0, AFL-2.0 or LGPL-2.1+, Apache-2.0 with LLVM exception, CC-BY-SA-3.0, CC0-1.0, CC0-1.0 or Mingw-PD, Expat, FSFULLR, GPL-2+, Iconv-PD, Janik-permissive, Janik-permissive and old-glib-tests, Kuchling-PD, LGPL-2+, LGPL-2.1+, LGPL-2.1+ and Kuchling-PD and Plumb-PD, LGPL-3+, Mingw-PD, Plumb-PD, Unicode-DFS-2016, bzip2-1.0.6, cmph, old-glib-tests
+gir1.2-javascriptcoregtk-4.1	2.54.0-1~deb13u3	webkit2gtk	2.54.0-1~deb13u3	AFL-2.0, AFL-2.0 or LGPL-2+, Apache-2.0, BSD-2-Clause-Patent, BSD-2-clause, BSD-2-clause or BSL-1.0, BSD-2-clause or Expat, BSD-3-clause-adam-barth, BSD-3-clause-apple, BSD-3-clause-canon, BSD-3-clause-code-aurora, BSD-3-clause-copyright-holder, BSD-3-clause-ericsson, BSD-3-clause-google, BSD-3-clause-jochen-kalmbach, BSD-3-clause-microsoft, BSD-3-clause-motorola, BSD-3-clause-opera, BSD-4-clause-valgrind, BSL-1.0, Expat, GPL-2+, GPL-2+ or LGPL-2.1+ or MPL-1.1, GPL-2+ with Bison exception, GPL-3+, GPL-3+ with Bison exception, ISC, LGPL-2, LGPL-2+, LGPL-2+ or MPL-1.1, LGPL-2.1+, LGPL-2.1+ or MPL-1.1, MPL-1.1, MPL-2.0
+git	1:2.47.3-0+deb13u1	git	1:2.47.3-0+deb13u1	Apache-2.0, BSD-3-clause, Boost, EDL-1.0, Expat, GPL-1+ or Artistic-1, GPL-2, GPL-2+, ISC, LGPL-2+, LGPL-2.1+, Zlib, dlmalloc, mingw-runtime
+git-man	1:2.47.3-0+deb13u1	git	1:2.47.3-0+deb13u1	Apache-2.0, BSD-3-clause, Boost, EDL-1.0, Expat, GPL-1+ or Artistic-1, GPL-2, GPL-2+, ISC, LGPL-2+, LGPL-2.1+, Zlib, dlmalloc, mingw-runtime
+gnupg	2.4.7-21+deb13u1	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gnupg-l10n	2.4.7-21+deb13u1	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gnupg-utils	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gpg	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gpg-agent	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gpg-wks-client	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gpgconf	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gpgsm	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gpgv	2.4.7-21+deb13u1+b3	gnupg2	2.4.7-21+deb13u1	BSD-3-clause, CC0-1.0, Expat, GPL-2+, GPL-3+, GPL-3+ or BSD-3-clause, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+, RFC-Reference, TinySCHEME, permissive
+gpiod	2.2.1-2+deb13u1	libgpiod	2.2.1-2+deb13u1	Apache-2.0, Apache-2.0 or BSD-3-clause, BSD-3-clause, CC-BY-SA-4.0, CC0-1.0, GPL-2+, GPL-2+ with Autoconf exception, GPL-2+ with Libtool exception, GPL-3+ with Autoconf exception, LGPL-2.1+, MIT-X-Consortium
+grep	3.11-4+b1	grep	3.11-4	GPL-3+
+groff-base	1.23.0-9	groff	1.23.0-9	see copyright file
+gsettings-desktop-schemas	48.0-1	gsettings-desktop-schemas	48.0-1	LGPL-2.1+
+gstreamer1.0-libcamera	0.4.0-7	libcamera	0.4.0-7	Apache-2.0, BSD-2-Clause, BSD-3-Clause, BSD-3-Clause or GPL-2+, CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0, Expat, GPL-2, GPL-2+, GPL-2+ with Linux-syscall-note exception, GPL-2+ with Linux-syscall-note exception or BSD-3-Clause, LGPL-2.1+
+gstreamer1.0-plugins-base	1.26.2-1+deb13u1	gst-plugins-base1.0	1.26.2-1+deb13u1	BSD (2 clause), BSD (3 clause), BSD-3-clause, CC-BY-SA-4.0, GPL-2+, LGPL, LGPL-2+, LGPL-2.1+, MIT/X11 (BSD like) LGPL-2+, public-domain
+gvfs	1.57.2-2+deb13u1	gvfs	1.57.2-2+deb13u1	GPL-2+, GPL-3+, LGPL-2+
+gvfs-common	1.57.2-2+deb13u1	gvfs	1.57.2-2+deb13u1	GPL-2+, GPL-3+, LGPL-2+
+gvfs-daemons	1.57.2-2+deb13u1	gvfs	1.57.2-2+deb13u1	GPL-2+, GPL-3+, LGPL-2+
+gvfs-libs	1.57.2-2+deb13u1	gvfs	1.57.2-2+deb13u1	GPL-2+, GPL-3+, LGPL-2+
+gzip	1.13-1	gzip	1.13-1	FSF-manpages, GFDL-1.3+-no-invariant, GPL-3+
+hicolor-icon-theme	0.18-2	hicolor-icon-theme	0.18-2	GPL-2+
+hostname	3.25	hostname	3.25	GPL-2
+htop	3.4.1-5	htop	3.4.1-5	GPL-2+
+i2c-tools	4.4-2	i2c-tools	4.4-2	GPL-2, GPL-2+, LGPL-2.1+
+ifupdown	0.8.44+deb13u1	ifupdown	0.8.44+deb13u1	GPL-2+
+inetutils-telnet	2:2.6-3+deb13u3	inetutils	2:2.6-3+deb13u3	BSD-3-clause, GFDL-1.3+, GPL-3+, GPL-3+ and BSD-3-clause, GPL-3+ and MIT and BSD-3-clause, GPL-3+ and Wietse, MIT, Wietse
+init	1.69~deb13u1	init-system-helpers	1.69~deb13u1	BSD-3-clause, GPL-2+
+init-system-helpers	1.69~deb13u1	init-system-helpers	1.69~deb13u1	BSD-3-clause, GPL-2+
+initramfs-tools	0.148.4	initramfs-tools	0.148.4	GPL-2+
+initramfs-tools-bin	0.148.4	initramfs-tools	0.148.4	GPL-2+
+initramfs-tools-core	0.148.4	initramfs-tools	0.148.4	GPL-2+
+iproute2	6.15.0-1	iproute2	6.15.0-1	GPL-2
+iptables	1.8.11-2	iptables	1.8.11-2	Artistic, GPL-2, GPL-2+, custom
+iputils-ping	3:20240905-3	iputils	3:20240905-3	BSD-3-clause, GPL-2+, public-domain
+iso-codes	4.18.0-1	iso-codes	4.18.0-1	LGPL-2.1+
+iw	6.9-1+b1	iw	6.9-1	ISC
+jq	1.7.1-6+deb13u2	jq	1.7.1-6+deb13u2	CC-BY-3.0, Expat, GPL-2.0+, MIT
+klibc-utils	2.0.14-1	klibc	2.0.14-1	no copyright file
+kmod	34.2-2	kmod	34.2-2	no copyright file
+krb5-locales	1.21.3-5+deb13u1	krb5	1.21.3-5+deb13u1	see copyright file
+less	668-1	less	668-1	GPL-3+, GPL-3+ or Less, GPL-3+ or Less, and X11, Less, Spencer-86, X11, public-domain
+libaacs0	0.11.1-4+b1	libaacs	0.11.1-4	LGPL-2.1+
+libabsl20240722	20240722.0-4	abseil	20240722.0-4	Apache-2.0
+libacl1	2.3.2-2+b1	acl	2.3.2-2	GPL-2+, LGPL-2+
+libapparmor1	4.1.0-1	apparmor	4.1.0-1	BSD-3-clause, BSD-3-clause or GPL-2+, GPL-2, GPL-2+, LGPL-2.1+
+libapt-pkg7.0	3.0.3	apt	3.0.3	BSD-3-clause, Expat, GPL-2, GPL-2+, GPL-2+ and curl, curl
+libarchive13t64	3.7.4-4+deb13u1	libarchive	3.7.4-4+deb13u1	Apache-2.0, Apache-2.0 or CC0-1.0 or OpenSSL+SSLeay, BSD-1-clause-UCB, BSD-124-clause-UCB, BSD-2-clause, BSD-2-clause and BSD-1-clause-UCB, BSD-2-clause and BSD-124-clause-UCB, BSD-2-clause and BSD-3-clause-UCB, BSD-2-clause and Expat, BSD-3-clause-UCB, BSD-4-clause-UCB, CC0-1.0, Expat, OpenSSL+SSLeay, PD
+libasound2-data	1.2.14-1	alsa-lib	1.2.14-1	LGPL-2.1+
+libasound2t64	1.2.14-1	alsa-lib	1.2.14-1	LGPL-2.1+
+libassuan9	3.0.2-2	libassuan	3.0.2-2	FSFULLR, FSFULLRWD, GPL-2+ with Autoconf-data exception, GPL-2+ with Libtool exception, GPL-2.with.nonstandard.Autoconf-data.exception, GPL-3+, GPL-3+ with Autoconf-2.0~Archive exception, GPL-3+ with Autoconf-data exception, LGPL-2.1, LGPL-2.1+, LGPL-3+, X11
+libasyncns0	0.8-6+b5	libasyncns	0.8-6	LGPL-2.1+
+libatasmart4	0.19-5+b2	libatasmart	0.19-5	see copyright file
+libatomic1	14.2.0-19	gcc-14	14.2.0-19	no copyright file
+libatopology2t64	1.2.14-1	alsa-lib	1.2.14-1	LGPL-2.1+
+libattr1	1:2.5.2-3	attr	1:2.5.2-3	GPL-2+, LGPL-2+
+libaudit-common	1:4.0.2-2	audit	1:4.0.2-2	GPL-2, LGPL-2.1
+libaudit1	1:4.0.2-2+b2	audit	1:4.0.2-2	GPL-2, LGPL-2.1
+libavahi-client3	0.8-16	avahi	0.8-16	see copyright file
+libavahi-common-data	0.8-16	avahi	0.8-16	see copyright file
+libavahi-common3	0.8-16	avahi	0.8-16	see copyright file
+libavahi-core7	0.8-16	avahi	0.8-16	see copyright file
+libb2-1	0.98.1-1.1+b2	libb2	0.98.1-1.1	CC0, public-domain
+libbcg729-0	1.1.1-3+deb13u1	bcg729	1.1.1-3+deb13u1	BSD-2-clause, GPL-2+, GPL-3+
+libbdplus0	0.2.0-4+b1	libbdplus	0.2.0-4	LGPL-2.1+, public-domain
+libblkid1	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+libblockdev-crypto3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev-fs3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev-loop3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev-mdraid3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev-nvme3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev-part3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev-swap3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev-utils3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libblockdev3	3.3.0-2.1	libblockdev	3.3.0-2.1	GPL-2+, LGPL-2.1+
+libbluetooth3	5.82-1.1	bluez	5.82-1.1	Apache-2.0, BSD-2-clause, GPL-2+, LGPL-2.1+
+libbluray2	1:1.3.4-1+b2	libbluray	1:1.3.4-1	BSD-3-clause, GPL-2+, LGPL-2.1+, MPL-1.0, MPL-1.0 or GPL-2+ or LGPL-2.1+, custom
+libbpf1	1:1.5.0-3	libbpf	1.5.0-3	BSD-2-Clause, BSD-3-Clause, GPL-2 with Linux-syscall-note exception, GPL-2 with Linux-syscall-note exception OR BSD-3-Clause, GPL-2+, GPL-2.0, LGPL-2.1, LGPL-2.1 or BSD-2-Clause
+libbrotli1	1.1.0-2+b7	brotli	1.1.0-2	MIT
+libbsd0	0.12.2-2	libbsd	0.12.2-2	BSD-2-clause, BSD-2-clause-NetBSD, BSD-2-clause-author, BSD-2-clause-verbatim, BSD-3-clause, BSD-3-clause-John-Birrell, BSD-3-clause-Regents, BSD-3-clause-Regents and BSD-2-clause-NetBSD, BSD-3-clause-author, BSD-5-clause-Peter-Wemm, Beerware, Expat, ISC, ISC-Original, public-domain
+libbytesize-common	2.11-2	libbytesize	2.11-2	LGPL-2.1+
+libbytesize1	2.11-2	libbytesize	2.11-2	LGPL-2.1+
+libbz2-1.0	1.0.8-6	bzip2	1.0.8-6	BSD-variant, GPL-2
+libc-bin	2.41-12+deb13u3	glibc	2.41-12+deb13u3	BSD-2-clause, BSD-2-clause or GPL-2, BSD-3-clause-Berkeley, BSD-3-clause-Berkeley and BSD-3-clause-WIDE, BSD-3-clause-Berkeley and DEC, BSD-3-clause-Berkeley and DEC and IBM and ISC, BSD-3-clause-Berkeley and DEC and ISC, BSD-3-clause-Berkeley and DEC and ISC and LGPL-2.1+, BSD-3-clause-Berkeley and DEC and LGPL-2.1+, BSD-3-clause-Berkeley and ISC, BSD-3-clause-Berkeley and LGPL-2.1+, BSD-3-clause-Berkeley and LGPL-2.1+ and Univ-Coimbra, BSD-3-clause-Carnegie, BSD-3-clause-Oracle, BSD-3-clause-WIDE, BSD-like-Spencer, BSL-1.0, CORE-MATH, Carnegie, Carnegie and LGPL-2.1+, DEC, FSFAP, GPL-2, GPL-2+, GPL-2+-with-link-exception, GPL-3+, IBM, IBM and ISC, ISC, ISC and LGPL-2.1+, Inner-Net, Inner-Net and LGPL-2.1+, LGPL-2+, LGPL-2.1+, LGPL-2.1+ and GPL-2, LGPL-2.1+ and SunPro, LGPL-2.1+-with-link-exception, LGPL-3+, MIT-like-Lord, PCRE, SunPro, Unicode-DFS-2016, Univ-Coimbra, public-domain
+libc-l10n	2.41-12+deb13u3	glibc	2.41-12+deb13u3	BSD-2-clause, BSD-2-clause or GPL-2, BSD-3-clause-Berkeley, BSD-3-clause-Berkeley and BSD-3-clause-WIDE, BSD-3-clause-Berkeley and DEC, BSD-3-clause-Berkeley and DEC and IBM and ISC, BSD-3-clause-Berkeley and DEC and ISC, BSD-3-clause-Berkeley and DEC and ISC and LGPL-2.1+, BSD-3-clause-Berkeley and DEC and LGPL-2.1+, BSD-3-clause-Berkeley and ISC, BSD-3-clause-Berkeley and LGPL-2.1+, BSD-3-clause-Berkeley and LGPL-2.1+ and Univ-Coimbra, BSD-3-clause-Carnegie, BSD-3-clause-Oracle, BSD-3-clause-WIDE, BSD-like-Spencer, BSL-1.0, CORE-MATH, Carnegie, Carnegie and LGPL-2.1+, DEC, FSFAP, GPL-2, GPL-2+, GPL-2+-with-link-exception, GPL-3+, IBM, IBM and ISC, ISC, ISC and LGPL-2.1+, Inner-Net, Inner-Net and LGPL-2.1+, LGPL-2+, LGPL-2.1+, LGPL-2.1+ and GPL-2, LGPL-2.1+ and SunPro, LGPL-2.1+-with-link-exception, LGPL-3+, MIT-like-Lord, PCRE, SunPro, Unicode-DFS-2016, Univ-Coimbra, public-domain
+libc6	2.41-12+deb13u3	glibc	2.41-12+deb13u3	BSD-2-clause, BSD-2-clause or GPL-2, BSD-3-clause-Berkeley, BSD-3-clause-Berkeley and BSD-3-clause-WIDE, BSD-3-clause-Berkeley and DEC, BSD-3-clause-Berkeley and DEC and IBM and ISC, BSD-3-clause-Berkeley and DEC and ISC, BSD-3-clause-Berkeley and DEC and ISC and LGPL-2.1+, BSD-3-clause-Berkeley and DEC and LGPL-2.1+, BSD-3-clause-Berkeley and ISC, BSD-3-clause-Berkeley and LGPL-2.1+, BSD-3-clause-Berkeley and LGPL-2.1+ and Univ-Coimbra, BSD-3-clause-Carnegie, BSD-3-clause-Oracle, BSD-3-clause-WIDE, BSD-like-Spencer, BSL-1.0, CORE-MATH, Carnegie, Carnegie and LGPL-2.1+, DEC, FSFAP, GPL-2, GPL-2+, GPL-2+-with-link-exception, GPL-3+, IBM, IBM and ISC, ISC, ISC and LGPL-2.1+, Inner-Net, Inner-Net and LGPL-2.1+, LGPL-2+, LGPL-2.1+, LGPL-2.1+ and GPL-2, LGPL-2.1+ and SunPro, LGPL-2.1+-with-link-exception, LGPL-3+, MIT-like-Lord, PCRE, SunPro, Unicode-DFS-2016, Univ-Coimbra, public-domain
+libcairo-gobject2	1.18.4-1+b1	cairo	1.18.4-1	see copyright file
+libcairo2	1.18.4-1+b1	cairo	1.18.4-1	see copyright file
+libcamera-ipa	0.4.0-7	libcamera	0.4.0-7	Apache-2.0, BSD-2-Clause, BSD-3-Clause, BSD-3-Clause or GPL-2+, CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0, Expat, GPL-2, GPL-2+, GPL-2+ with Linux-syscall-note exception, GPL-2+ with Linux-syscall-note exception or BSD-3-Clause, LGPL-2.1+
+libcamera-tools	0.4.0-7	libcamera	0.4.0-7	Apache-2.0, BSD-2-Clause, BSD-3-Clause, BSD-3-Clause or GPL-2+, CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0, Expat, GPL-2, GPL-2+, GPL-2+ with Linux-syscall-note exception, GPL-2+ with Linux-syscall-note exception or BSD-3-Clause, LGPL-2.1+
+libcamera-v4l2	0.4.0-7	libcamera	0.4.0-7	Apache-2.0, BSD-2-Clause, BSD-3-Clause, BSD-3-Clause or GPL-2+, CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0, Expat, GPL-2, GPL-2+, GPL-2+ with Linux-syscall-note exception, GPL-2+ with Linux-syscall-note exception or BSD-3-Clause, LGPL-2.1+
+libcamera0.4	0.4.0-7	libcamera	0.4.0-7	Apache-2.0, BSD-2-Clause, BSD-3-Clause, BSD-3-Clause or GPL-2+, CC-BY-4.0, CC-BY-SA-4.0, CC0-1.0, Expat, GPL-2, GPL-2+, GPL-2+ with Linux-syscall-note exception, GPL-2+ with Linux-syscall-note exception or BSD-3-Clause, LGPL-2.1+
+libcap-ng0	0.8.5-4+b1	libcap-ng	0.8.5-4	GPL-2+, GPL-3, LGPL-2.1+
+libcap2	1:2.75-10+deb13u1+b1	libcap2	1:2.75-10+deb13u1	BSD-3-clause, BSD-3-clause or GPL-2, BSD-3-clause or GPL-2+, GPL-2, GPL-2+
+libcap2-bin	1:2.75-10+deb13u1+b1	libcap2	1:2.75-10+deb13u1	BSD-3-clause, BSD-3-clause or GPL-2, BSD-3-clause or GPL-2+, GPL-2, GPL-2+
+libcares2	1.34.5-1+deb13u1	c-ares	1.34.5-1+deb13u1	APSL-2.0, BSD-3-clause, Expat, Expat or ISC, FSFAP, FSFUL, FSFULLR, GPL-2+ with Autoconf-data exception, GPL-2+ with Libtool exception, GPL-3+ with Autoconf-2.0~Archive exception, GPL-3+ with Autoconf-data exception, ISC, LGPL-2.1+, X11
+libcbor0.10	0.10.2-2	libcbor	0.10.2-2	Expat
+libcdparanoia0	3.10.2+debian-14+b1	cdparanoia	3.10.2+debian-14	GPL-2+, LGPL-2.1+
+libclang-common-19-dev	1:19.1.7-3+b1	llvm-toolchain-19	1:19.1.7-3	APACHE-2-LLVM-EXCEPTIONS, BSD-3-Clause, BSD-3-clause, MIT, Python, solar-public-domain
+libclang-cpp19	1:19.1.7-3+b1	llvm-toolchain-19	1:19.1.7-3	APACHE-2-LLVM-EXCEPTIONS, BSD-3-Clause, BSD-3-clause, MIT, Python, solar-public-domain
+libclang-rt-19-dev	1:19.1.7-3+b1	llvm-toolchain-19	1:19.1.7-3	APACHE-2-LLVM-EXCEPTIONS, BSD-3-Clause, BSD-3-clause, MIT, Python, solar-public-domain
+libclc-19	1:19.1.7-3	llvm-toolchain-19	1:19.1.7-3	APACHE-2-LLVM-EXCEPTIONS, BSD-3-Clause, BSD-3-clause, MIT, Python, solar-public-domain
+libclc-19-dev	1:19.1.7-3	llvm-toolchain-19	1:19.1.7-3	APACHE-2-LLVM-EXCEPTIONS, BSD-3-Clause, BSD-3-clause, MIT, Python, solar-public-domain
+libcom-err2	1.47.2-3+b11	e2fsprogs	1.47.2-3	0BSD, Apache-2, BSD-3-Clause, BSD-3-Clause-Variant, BSD-4-Clause-CMU, Expat, GPL or MIT-US-export, GPL-2, GPL-2+, GPL-2+ with Texinfo exception, ISC, Kazlib, LGPL-2, Latex2e
+libcompel1	4.1.1-1	criu	4.1.1-1	GPL-2, GPL-2+, LGPL-2.1+
+libconfig++11	1.7.3-2	libconfig	1.7.3-2	Apache-2.0, FSFULLR, GPL-2+, GPL-3+ with Bison-2.2 exception, LGPL-2.1+
+libcrypt1	1:4.4.38-1	libxcrypt	1:4.4.38-1	see copyright file
+libcryptsetup12	2:2.7.5-2	cryptsetup	2:2.7.5-2	Apache-2.0, CC-BY-SA-4.0, CC0, CC0 or Apache-2.0, GPL-2+, GPL-2+ with OpenSSL exception, GPL-3+, LGPL-2.1+, LGPL-2.1+ with OpenSSL exception, public-domain
+libcurl3t64-gnutls	8.14.1-2+deb13u3	curl	8.14.1-2+deb13u3	BSD-3-Clause, BSD-3-clause, BSD-4-Clause-UC, FSFULLR, GPL-2+ with Autoconf-data exception, GPL-2+ with Libtool exception, GPL-3+ with Autoconf-data exception, ISC, OLDAP-2.8, X11, curl, curl and ISC
+libcurl4t64	8.14.1-2+deb13u3	curl	8.14.1-2+deb13u3	BSD-3-Clause, BSD-3-clause, BSD-4-Clause-UC, FSFULLR, GPL-2+ with Autoconf-data exception, GPL-2+ with Libtool exception, GPL-3+ with Autoconf-data exception, ISC, OLDAP-2.8, X11, curl, curl and ISC
+libdaemon0	0.14-7.1+b3	libdaemon	0.14-7.1	see copyright file
+libdatrie1	0.2.13-3+b1	libdatrie	0.2.13-3	GPL-2+, LGPL-2.1+
+libdav1d7	1.5.1-1	dav1d	1.5.1-1	BSD-2-clause, ISC, ISC and BSD-2-clause, public-domain
+libdb5.3t64	5.3.28+dfsg2-9	db5.3	5.3.28+dfsg2-9	Artistic or BSD-3-clause, BSD-3-clause, BSD-3-clause-fjord, GPL, GPL or Artistic, GPL-3, MIT-old, Ms-PL, Sleepycat, Sleepycat and BSD-3-clause, TCL-like, X11, zlib
+libdbus-1-3	1.16.2-2	dbus	1.16.2-2	AFL-2.1, BSD-3-clause, BSD-3-clause and BSD-3-clause-generic, BSD-3-clause-generic, Expat, GPL-2+, GPL-2+ or AFL-2.1, and Expat and Tcl-BSDish, LGPL-2.1+, Tcl-BSDish, g10-permissive
+libdconf1	0.40.0-5	dconf	0.40.0-5	GPL-3, LGPL-2+
+libdebconfclient0	0.280	cdebconf	0.280	BSD-2-Clause, BSD-2-clause, GPL-2+
+libdecor-0-0	0.2.2-2	libdecor-0	0.2.2-2	Expat, GPL-3.0+
+libdeflate0	1.23-2	libdeflate	1.23-2	Expat
+libdevmapper1.02.1	2:1.02.205-2	lvm2	2.03.31-2	BSD-2-Clause, GPL-2.0, GPL-2.0+, LGPL-2.1
+libdouble-conversion3	3.3.1-1	double-conversion	3.3.1-1	BSD-3-clause
+libdrm-amdgpu1	2.4.124-2	libdrm	2.4.124-2	see copyright file
+libdrm-common	2.4.124-2	libdrm	2.4.124-2	see copyright file
+libdrm2	2.4.124-2	libdrm	2.4.124-2	see copyright file
+libduktape207	2.7.0-2+b2	duktape	2.7.0-2	CC0, expat, unicode
+libdw1t64	0.192-4	elfutils	0.192-4	BSD-2-clause, GFDL-NIV-1.3, GPL-3+, GPL-3+ with Bison exception, LGPL-2.1+, LGPL-3+ or GPL-2+
+libebur128-1	1.2.6-1+b2	libebur128	1.2.6-1	BSD-3-clause, Expat
+libedit2	3.1-20250104-1	libedit	3.1-20250104-1	BSD-3-clause
+libefiboot1t64	38-3.1+b1	efivar	38-3.1	GPL-2.0+, LGPL-2.0+
+libefivar1t64	38-3.1+b1	efivar	38-3.1	GPL-2.0+, LGPL-2.0+
+libegl-mesa0	25.2.6-1~bpo13+1	mesa	25.2.6-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-3-google, BSL, GPL, GPL-1+, GPL-2, GPL-2 or MIT, Khronos, MIT, MLAA, SGI
+libegl1	1.7.0-1+b2	libglvnd	1.7.0-1	Apache-2.0, BSD-1-clause, GPL, GPL-3+, MIT, public-domain
+libelf1t64	0.192-4	elfutils	0.192-4	BSD-2-clause, GFDL-NIV-1.3, GPL-3+, GPL-3+ with Bison exception, LGPL-2.1+, LGPL-3+ or GPL-2+
+liberror-perl	0.17030-1	liberror-perl	0.17030-1	Artistic, Artistic or GPL-1+, GPL-1+, MIT/X11
+libevdev2	1.13.4+dfsg-1	libevdev	1.13.4+dfsg-1	Apache-2.0, BSD-3, GPL-2, GPL-2+, MIT
+libevemu3t64	2.7.0-4+b1	evemu	2.7.0-4	GPL-3, LGPL-3
+libevent-2.1-7t64	2.1.12-stable-10+b1	libevent	2.1.12-stable-10	BSD-2-clause, BSD-3-clause, BSL, Expat, FSFUL, FSFULLR, FSFULLR-No-Warranty, GPL-2+, GPL-3+, ISC, curl
+libevent-core-2.1-7t64	2.1.12-stable-10+b1	libevent	2.1.12-stable-10	BSD-2-clause, BSD-3-clause, BSL, Expat, FSFUL, FSFULLR, FSFULLR-No-Warranty, GPL-2+, GPL-3+, ISC, curl
+libevent-pthreads-2.1-7t64	2.1.12-stable-10+b1	libevent	2.1.12-stable-10	BSD-2-clause, BSD-3-clause, BSL, Expat, FSFUL, FSFULLR, FSFULLR-No-Warranty, GPL-2+, GPL-3+, ISC, curl
+libexpat1	2.7.1-2	expat	2.7.1-2	MIT
+libext2fs2t64	1.47.2-3+b11	e2fsprogs	1.47.2-3	0BSD, Apache-2, BSD-3-Clause, BSD-3-Clause-Variant, BSD-4-Clause-CMU, Expat, GPL or MIT-US-export, GPL-2, GPL-2+, GPL-2+ with Texinfo exception, ISC, Kazlib, LGPL-2, Latex2e
+libfdisk1	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+libfdt1	1.7.2-2+b1	device-tree-compiler	1.7.2-2	BSD-2-clause, GPL-2+, GPL-2+ or BSD-2-clause, LGPL-2.1+
+libffado2	2.4.9-2	libffado	2.4.9-2	BSD-3-clause, CC0-1.0, GPL-2+, GPL-23, GPL-3, GPL-3+, LGPL-2.1+, permissive
+libffi8	3.4.8-2	libffi	3.4.8-2	Expat, GPL, GPL-2+, GPL-3+, MPL-1.1 or GPL-2+ or LGPL-2.1+, X11, public-domain
+libfftw3-single3	3.3.10-2+b1	fftw3	3.3.10-2	GPL-2+
+libfido2-1	1.15.0-1+b1	libfido2	1.15.0-1	BSD-2-clause, ISC, ISC and BSD-2-clause, public-domain
+libflac14	1.5.0+ds-2	flac	1.5.0+ds-2	BSD-3-clause, GFDL-1.1+, GPL-2+, GPL-2+ or LGPL-2.1+, ISC, LGPL-2+, LGPL-2.1+, Public-domain
+libflashrom1	1.4.0-3	flashrom	1.4.0-3	GPL-2, GPL-2+, PD
+libfontconfig1	2.15.0-2.3	fontconfig	2.15.0-2.3	see copyright file
+libfreetype6	2.13.3+dfsg-1+deb13u1	freetype	2.13.3+dfsg-1+deb13u1	BSD-3-Clause, BSL-1.0, Expat, FSFAP, FTL, FTL and Expat, GPL-2+, GPL-3+, MIT-Modern-Variant, MIT-SMC, OpenGroup-MIT, Public-Domain, Zlib
+libfribidi0	1.0.16-1	fribidi	1.0.16-1	LGPL-2.1+
+libfstrm0	0.6.1-1+b3	fstrm	0.6.1-1	Gray-Watson, MIT
+libftdi1-2	1.5-10	libftdi1	1.5-10	BSD-2-Clause-FreeBSD, BSD-3-Clause, GPL-2, GPL-2 with linking exception, GPL-2+, LGPL-2.1, LGPL-2.1 and MIT, MIT
+libfuse3-4	3.17.2-3	fuse3	3.17.2-3	GPL-2, GPL-2+, LGPL-2.1
+libfwupd3	2.0.8-3+deb13u1	fwupd	2.0.8-3+deb13u1	CC0-1.0, LGPL-2.1-or-later
+libgbm1	25.2.6-1~bpo13+1	mesa	25.2.6-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-3-google, BSL, GPL, GPL-1+, GPL-2, GPL-2 or MIT, Khronos, MIT, MLAA, SGI
+libgcc-s1	14.2.0-19	gcc-14	14.2.0-19	no copyright file
+libgck-2-2	4.4.0.1-3	gcr4	4.4.0.1-3	LGPL-2.1+, bzip2-1.0.5
+libgcr-4-4	4.4.0.1-3	gcr4	4.4.0.1-3	LGPL-2.1+, bzip2-1.0.5
+libgcrypt20	1.11.0-7+deb13u1	libgcrypt20	1.11.0-7+deb13u1	see copyright file
+libgdbm-compat4t64	1.24-2	gdbm	1.24-2	GFDL-NIV-1.3+, GPL-2+, GPL-3+
+libgdbm6t64	1.24-2	gdbm	1.24-2	GFDL-NIV-1.3+, GPL-2+, GPL-3+
+libgdk-pixbuf-2.0-0	2.42.12+dfsg-4+deb13u1	gdk-pixbuf	2.42.12+dfsg-4+deb13u1	CC0-1.0, GPL-2+, LGPL-2+, LGPL-2+ and LGPL-2.1+ and CC0-1.0, LGPL-2.1+
+libgdk-pixbuf2.0-bin	2.42.12+dfsg-4+deb13u1	gdk-pixbuf	2.42.12+dfsg-4+deb13u1	CC0-1.0, GPL-2+, LGPL-2+, LGPL-2+ and LGPL-2.1+ and CC0-1.0, LGPL-2.1+
+libgdk-pixbuf2.0-common	2.42.12+dfsg-4+deb13u1	gdk-pixbuf	2.42.12+dfsg-4+deb13u1	CC0-1.0, GPL-2+, LGPL-2+, LGPL-2+ and LGPL-2.1+ and CC0-1.0, LGPL-2.1+
+libgirepository-1.0-1	1.84.0-1	gobject-introspection	1.84.0-1	AFL-2.0, AFL-2.0 or LGPL-2.1+, Apache-2.0 with LLVM exception, BSD-2-clause, CC-BY-SA-3.0, CC0-1.0, Expat, Expat and GPL-2+, Expat or LGPL-2+, FSFAP, FSFAP and FSFULLR, FSFULLR, GPL with Autoconf exception, GPL-2+, GPL-2+ and LGPL-2+ and Expat, Kuchling-PD, LGPL-2, LGPL-2 or MPL-1.1, LGPL-2+, LGPL-2+ and LGPL-2.1+ and FSFULLR and CC0-1.0, LGPL-2.1+, LGPL-2.1+ and Kuchling-PD and Plumb-PD, LGPL-3+, MPL-1.1, Plumb-PD, Unicode-DFS-2016, bzip2-1.0.6
+libgl1	1.7.0-1+b2	libglvnd	1.7.0-1	Apache-2.0, BSD-1-clause, GPL, GPL-3+, MIT, public-domain
+libgl1-mesa-dri	25.2.6-1~bpo13+1	mesa	25.2.6-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-3-google, BSL, GPL, GPL-1+, GPL-2, GPL-2 or MIT, Khronos, MIT, MLAA, SGI
+libgles2	1.7.0-1+b2	libglvnd	1.7.0-1	Apache-2.0, BSD-1-clause, GPL, GPL-3+, MIT, public-domain
+libglib2.0-0t64	2.84.4-3~deb13u3	glib2.0	2.84.4-3~deb13u3	AFL-2.0, AFL-2.0 or LGPL-2.1+, Apache-2.0 with LLVM exception, CC-BY-SA-3.0, CC0-1.0, CC0-1.0 or Mingw-PD, Expat, FSFULLR, GPL-2+, Iconv-PD, Janik-permissive, Janik-permissive and old-glib-tests, Kuchling-PD, LGPL-2+, LGPL-2.1+, LGPL-2.1+ and Kuchling-PD and Plumb-PD, LGPL-3+, Mingw-PD, Plumb-PD, Unicode-DFS-2016, bzip2-1.0.6, cmph, old-glib-tests
+libglib2.0-data	2.84.4-3~deb13u3	glib2.0	2.84.4-3~deb13u3	AFL-2.0, AFL-2.0 or LGPL-2.1+, Apache-2.0 with LLVM exception, CC-BY-SA-3.0, CC0-1.0, CC0-1.0 or Mingw-PD, Expat, FSFULLR, GPL-2+, Iconv-PD, Janik-permissive, Janik-permissive and old-glib-tests, Kuchling-PD, LGPL-2+, LGPL-2.1+, LGPL-2.1+ and Kuchling-PD and Plumb-PD, LGPL-3+, Mingw-PD, Plumb-PD, Unicode-DFS-2016, bzip2-1.0.6, cmph, old-glib-tests
+libglibmm-2.4-1t64	2.66.8-1	glibmm2.4	2.66.8-1	GPL-2+, LGPL-2.1+
+libglvnd0	1.7.0-1+b2	libglvnd	1.7.0-1	Apache-2.0, BSD-1-clause, GPL, GPL-3+, MIT, public-domain
+libglx-mesa0	25.2.6-1~bpo13+1	mesa	25.2.6-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-3-google, BSL, GPL, GPL-1+, GPL-2, GPL-2 or MIT, Khronos, MIT, MLAA, SGI
+libglx0	1.7.0-1+b2	libglvnd	1.7.0-1	Apache-2.0, BSD-1-clause, GPL, GPL-3+, MIT, public-domain
+libgmp10	2:6.3.0+dfsg-3	gmp	2:6.3.0+dfsg-3	GPL-2+, GPL-2+ or LGPL-3+, GPL-3+, GPL-3+ with Bison exception, LGPL-3+
+libgnutls30t64	3.8.9-3+deb13u4	gnutls28	3.8.9-3+deb13u4	Apache-2.0, BSD-3-Clause, CC0 license, Expat, FSFAP, GPLv3+, LGPLv2.1+, LGPLv3+_or_GPLv2+, The main library is licensed under GNU Lesser
+libgomp1	14.2.0-19	gcc-14	14.2.0-19	no copyright file
+libgpg-error-l10n	1.51-4	libgpg-error	1.51-4	BSD-3-clause, GPL-3+, LGPL-2.1+, LGPL-2.1+ or BSD-3-clause, g10-permissive
+libgpg-error0	1.51-4	libgpg-error	1.51-4	BSD-3-clause, GPL-3+, LGPL-2.1+, LGPL-2.1+ or BSD-3-clause, g10-permissive
+libgpgme11t64	1.24.2-3	gpgme1.0	1.24.2-3	GPL-2+, GPL-3+, LGPL-2+, LGPL-2.1+, LGPL-3+, LGPL-3+ or GPL-2+
+libgpiod3	2.2.1-2+deb13u1	libgpiod	2.2.1-2+deb13u1	Apache-2.0, Apache-2.0 or BSD-3-clause, BSD-3-clause, CC-BY-SA-4.0, CC0-1.0, GPL-2+, GPL-2+ with Autoconf exception, GPL-2+ with Libtool exception, GPL-3+ with Autoconf exception, LGPL-2.1+, MIT-X-Consortium
+libgpm2	1.20.7-11+b2	gpm	1.20.7-11	GPL-2.0+, GPL-3.0+
+libgraphite2-3	1.3.14-2+b1	graphite2	1.3.14-2	Artistic, Artistic or GPL-1+, GPL-1+, GPL-2+, LGPL-2.1+, LGPL-2.1+ or GPL-2+ or MPL-1.1, LGPL-2.1+ or MPL-1.1 or GPL-2+, MPL-1.1, custom-sil-open-font-license, public-domain
+libgssapi-krb5-2	1.21.3-5+deb13u1	krb5	1.21.3-5+deb13u1	see copyright file
+libgstreamer-plugins-base1.0-0	1.26.2-1+deb13u1	gst-plugins-base1.0	1.26.2-1+deb13u1	BSD (2 clause), BSD (3 clause), BSD-3-clause, CC-BY-SA-4.0, GPL-2+, LGPL, LGPL-2+, LGPL-2.1+, MIT/X11 (BSD like) LGPL-2+, public-domain
+libgstreamer1.0-0	1.26.2-2	gstreamer1.0	1.26.2-2	CC-BY-SA-4.0, GFDL, GPL-2+, GPL-3+, LGPL, LGPL-2+, LGPL-2.1+, MPL-2.0, public-domain
+libgudev-1.0-0	238-6	libgudev	238-6	LGPL-2+
+libharfbuzz0b	10.2.0-1+deb13u1	harfbuzz	10.2.0-1+deb13u1	Apache-2.0, CC0-1.0, Expat, FSFAP, FSFUL, FSFULLR, GPL-2+ with AutoConf exception, GPL-2+ with Font exception, GPL-2+ with LibTool exception, GPL-3+, GPL-3+ with AutoConf exception, ISC, LGPL-2.1+, MIT, Monotype, OFL-1.1, UFL-1.0, Unicode
+libhogweed6t64	3.10.1-1	nettle	3.10.1-1	Expat, GAP, GPL-2, GPL-2+, GPL-3+ with Autoconf exception, LGPL-2+, LGPL-3+, LGPL-3+ or GPL-2+, public-domain
+libi2c0	4.4-2	i2c-tools	4.4-2	GPL-2, GPL-2+, LGPL-2.1+
+libice6	2:1.1.1-1	libice	2:1.1.1-1	see copyright file
+libicu76	76.1-4	icu	76.1-4	GPL-3, MIT
+libidn2-0	2.3.8-2	libidn2	2.3.8-2	Expat, GPL-2+, GPL-3+, LGPL-3+, LGPL-3+ or GPL-2+, Unicode
+libiec61883-0	1.2.0-7	libiec61883	1.2.0-7	GPL-2+, LGPL-2+, LGPL-2.1+
+libimagequant0	2.18.0-1+b2	libimagequant	2.18.0-1	CC0, GPL-3.0+, MIT
+libinput-bin	1.28.1-1	libinput	1.28.1-1	Expat, GPL-2
+libinput10	1.28.1-1	libinput	1.28.1-1	Expat, GPL-2
+libintl-perl	1.35-1	libintl-perl	1.35-1	Artistic, GPL-1+, GPL-3+, GPL-3+ or Artistic or GPL-1+
+libintl-xs-perl	1.35-1	libintl-perl	1.35-1	Artistic, GPL-1+, GPL-3+, GPL-3+ or Artistic or GPL-1+
+libip4tc2	1.8.11-2	iptables	1.8.11-2	Artistic, GPL-2, GPL-2+, custom
+libip6tc2	1.8.11-2	iptables	1.8.11-2	Artistic, GPL-2, GPL-2+, custom
+libjansson4	2.14-2+b3	jansson	2.14-2	Expat
+libjavascriptcoregtk-4.0-bin	2.48.3-1qcom1	webkit2gtk	2.48.3-1qcom1	AFL-2.0, AFL-2.0 or LGPL-2+, Apache-2.0, BSD-2-Clause-Patent, BSD-2-clause, BSD-2-clause or BSL-1.0, BSD-2-clause or Expat, BSD-3-clause-adam-barth, BSD-3-clause-apple, BSD-3-clause-canon, BSD-3-clause-code-aurora, BSD-3-clause-copyright-holder, BSD-3-clause-ericsson, BSD-3-clause-google, BSD-3-clause-jochen-kalmbach, BSD-3-clause-microsoft, BSD-3-clause-motorola, BSD-3-clause-opera, BSD-4-clause-valgrind, BSL-1.0, Expat, GPL-2+, GPL-2+ or LGPL-2.1+ or MPL-1.1, GPL-2+ with Bison exception, GPL-3+, GPL-3+ with Bison exception, ISC, LGPL-2, LGPL-2+, LGPL-2+ or MPL-1.1, LGPL-2.1, LGPL-2.1+, LGPL-2.1+ or MPL-1.1, MPL-1.1, MPL-2.0
+libjavascriptcoregtk-4.1-0	2.54.0-1~deb13u3	webkit2gtk	2.54.0-1~deb13u3	AFL-2.0, AFL-2.0 or LGPL-2+, Apache-2.0, BSD-2-Clause-Patent, BSD-2-clause, BSD-2-clause or BSL-1.0, BSD-2-clause or Expat, BSD-3-clause-adam-barth, BSD-3-clause-apple, BSD-3-clause-canon, BSD-3-clause-code-aurora, BSD-3-clause-copyright-holder, BSD-3-clause-ericsson, BSD-3-clause-google, BSD-3-clause-jochen-kalmbach, BSD-3-clause-microsoft, BSD-3-clause-motorola, BSD-3-clause-opera, BSD-4-clause-valgrind, BSL-1.0, Expat, GPL-2+, GPL-2+ or LGPL-2.1+ or MPL-1.1, GPL-2+ with Bison exception, GPL-3+, GPL-3+ with Bison exception, ISC, LGPL-2, LGPL-2+, LGPL-2+ or MPL-1.1, LGPL-2.1+, LGPL-2.1+ or MPL-1.1, MPL-1.1, MPL-2.0
+libjavascriptcoregtk-bin	2.54.0-1~deb13u3	webkit2gtk	2.54.0-1~deb13u3	AFL-2.0, AFL-2.0 or LGPL-2+, Apache-2.0, BSD-2-Clause-Patent, BSD-2-clause, BSD-2-clause or BSL-1.0, BSD-2-clause or Expat, BSD-3-clause-adam-barth, BSD-3-clause-apple, BSD-3-clause-canon, BSD-3-clause-code-aurora, BSD-3-clause-copyright-holder, BSD-3-clause-ericsson, BSD-3-clause-google, BSD-3-clause-jochen-kalmbach, BSD-3-clause-microsoft, BSD-3-clause-motorola, BSD-3-clause-opera, BSD-4-clause-valgrind, BSL-1.0, Expat, GPL-2+, GPL-2+ or LGPL-2.1+ or MPL-1.1, GPL-2+ with Bison exception, GPL-3+, GPL-3+ with Bison exception, ISC, LGPL-2, LGPL-2+, LGPL-2+ or MPL-1.1, LGPL-2.1+, LGPL-2.1+ or MPL-1.1, MPL-1.1, MPL-2.0
+libjaylink0	0.4.0-1	libjaylink	0.4.0-1	GPL-2+
+libjbig0	2.1-6.1+b2	jbigkit	2.1-6.1	GPL-2+
+libjcat1	0.2.3-1	libjcat	0.2.3-1	LGPL-2.1+
+libjemalloc2	5.3.0-3	jemalloc	5.3.0-3	BSD-2-Clause, BSD-2-Clause-Chemeris, BSD-3-Clause, BSD-3-Clause-Google, BSD-3-Clause-Hiroshima-University, Expat
+libjim0.83	0.83-2	jimtcl	0.83-2	BSD-2-clause, ISC, NTP, TCL
+libjpeg62-turbo	1:2.1.5-4	libjpeg-turbo	1:2.1.5-4	BSD-3-clause, BSD-BY-LC-NE, Expat, NTP, Zlib, zlib
+libjq1	1.7.1-6+deb13u2	jq	1.7.1-6+deb13u2	CC-BY-3.0, Expat, GPL-2.0+, MIT
+libjson-c5	0.18+ds-1	json-c	0.18+ds-1	Expat
+libjson-glib-1.0-0	1.10.6+ds-2	json-glib	1.10.6+ds-2	CC0-1.0, Expat, LGPL-2.1+
+libjson-glib-1.0-common	1.10.6+ds-2	json-glib	1.10.6+ds-2	CC0-1.0, Expat, LGPL-2.1+
+libk5crypto3	1.21.3-5+deb13u1	krb5	1.21.3-5+deb13u1	see copyright file
+libkeyutils1	1.6.3-6	keyutils	1.6.3-6	GPL-2+, LGPL-2+
+libklibc	2.0.14-1	klibc	2.0.14-1	see copyright file
+libkmod2	34.2-2	kmod	34.2-2	GPL-2+, LGPL-2.1+
+libkrb5-3	1.21.3-5+deb13u1	krb5	1.21.3-5+deb13u1	see copyright file
+libkrb5support0	1.21.3-5+deb13u1	krb5	1.21.3-5+deb13u1	see copyright file
+libksba8	1.6.7-2+b1	libksba	1.6.7-2	FSFUL, LGPL-2.1-or-later
+liblastlog2-2	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+liblc3-1	1.1.3+dfsg-1	liblc3	1.1.3+dfsg-1	Apache-2.0
+liblcms2-2	2.16-2+deb13u2	lcms2	2.16-2+deb13u2	GPL-2+, GPL-3, IJG, MIT
+libldacbt-abr2	2.0.2.3+git20200429+ed310a0-5	libldac	2.0.2.3+git20200429+ed310a0-5	Apache-2
+libldacbt-enc2	2.0.2.3+git20200429+ed310a0-5	libldac	2.0.2.3+git20200429+ed310a0-5	Apache-2
+libldap-common	2.6.10+dfsg-1	openldap	2.6.10+dfsg-1	BSD-3-clause, BSD-3-clause-California, BSD-3-clause-variant, BSD-4-clause-California, Beerware, Expat, Expat-ISC, Expat-UNM, F5, FSF-unlimited, FSF-unlimited and GPL-2+ with Autoconf exception, FSF-unlimited and GPL-2+ with Libtool exception, FSF-unlimited and OpenLDAP-2.8, GPL-2+, GPL-2+ with Autoconf exception, GPL-2+ with Libtool exception, GPL-2+ with Libtool exception and GPL-3+ with Libtool exception and GPL-3+, GPL-3+, GPL-3+ with Autoconf exception, GPL-3+ with Libtool exception, JCG, MIT-XC, NeoSoft-permissive, OpenLDAP-2.8, OpenLDAP-2.8 and BSD-3-clause, OpenLDAP-2.8 and BSD-3-clause-variant, OpenLDAP-2.8 and BSD-4-clause-California, OpenLDAP-2.8 and Beerware, OpenLDAP-2.8 and Expat, OpenLDAP-2.8 and Expat-ISC, OpenLDAP-2.8 and Expat-UNM, OpenLDAP-2.8 and FSF-unlimited and GPL-2+ with Libtool exception, OpenLDAP-2.8 and JCG and UMich, OpenLDAP-2.8 and UMich, OpenLDAP-2.8 and UMich and F5, UMich, public-domain
+libldap2	2.6.10+dfsg-1	openldap	2.6.10+dfsg-1	BSD-3-clause, BSD-3-clause-California, BSD-3-clause-variant, BSD-4-clause-California, Beerware, Expat, Expat-ISC, Expat-UNM, F5, FSF-unlimited, FSF-unlimited and GPL-2+ with Autoconf exception, FSF-unlimited and GPL-2+ with Libtool exception, FSF-unlimited and OpenLDAP-2.8, GPL-2+, GPL-2+ with Autoconf exception, GPL-2+ with Libtool exception, GPL-2+ with Libtool exception and GPL-3+ with Libtool exception and GPL-3+, GPL-3+, GPL-3+ with Autoconf exception, GPL-3+ with Libtool exception, JCG, MIT-XC, NeoSoft-permissive, OpenLDAP-2.8, OpenLDAP-2.8 and BSD-3-clause, OpenLDAP-2.8 and BSD-3-clause-variant, OpenLDAP-2.8 and BSD-4-clause-California, OpenLDAP-2.8 and Beerware, OpenLDAP-2.8 and Expat, OpenLDAP-2.8 and Expat-ISC, OpenLDAP-2.8 and Expat-UNM, OpenLDAP-2.8 and FSF-unlimited and GPL-2+ with Libtool exception, OpenLDAP-2.8 and JCG and UMich, OpenLDAP-2.8 and UMich, OpenLDAP-2.8 and UMich and F5, UMich, public-domain
+liblerc4	4.0.0+ds-5	lerc	4.0.0+ds-5	Apache-2.0
+liblilv-0-0	0.24.26-1	lilv	0.24.26-1	0BSD, ISC
+libllvm19	1:19.1.7-3+b1	llvm-toolchain-19	1:19.1.7-3	APACHE-2-LLVM-EXCEPTIONS, BSD-3-Clause, BSD-3-clause, MIT, Python, solar-public-domain
+libllvmspirvlib19.1	19.1.6-1	spirv-llvm-translator-19	19.1.6-1	BSD-3-clause, Expat
+liblmdb0	0.9.31-1+b2	lmdb	0.9.31-1	OpenLDAP-2.8
+liblocale-gettext-perl	1.07-7+b1	liblocale-gettext-perl	1.07-7	Artistic, Artistic or GPL-1+, GPL-1+
+liblockfile-bin	1.17-2	liblockfile	1.17-2	GPL-2+, LGPL-2+
+liblsof0	4.99.4+dfsg-2	lsof	4.99.4+dfsg-2	BSD-4-clause, FSFAP, GPL-2+, PD, Purdue
+liblttng-ust-common1t64	2.13.9-1	ust	2.13.9-1	BSD-2-clause, BSD-3-clause, Expat, FSFAP, GPL-2, GPL-2+, GPL-3, GPL-3+, LGPL-2.1, LGPL-2.1+
+liblttng-ust-ctl5t64	2.13.9-1	ust	2.13.9-1	BSD-2-clause, BSD-3-clause, Expat, FSFAP, GPL-2, GPL-2+, GPL-3, GPL-3+, LGPL-2.1, LGPL-2.1+
+liblttng-ust1t64	2.13.9-1	ust	2.13.9-1	BSD-2-clause, BSD-3-clause, Expat, FSFAP, GPL-2, GPL-2+, GPL-3, GPL-3+, LGPL-2.1, LGPL-2.1+
+liblua5.4-0	5.4.7-1+b2	lua5.4	5.4.7-1	Expat
+liblz4-1	1.10.0-4	lz4	1.10.0-4	BSD-2-clause, BSD-2-clause or GPL-2+, GPL-2+
+liblzma5	5.8.1-1	xz-utils	5.8.1-1	0BSD, FSFUL, FSFULLR, GPL-2+, GPL-3.0-or-later-WITH-Autoconf-exception-macro, LGPL-2.1+, PD, PD-debian, noderivs, none, permissive-nowarranty
+libmagic-mgc	1:5.46-5	file	1:5.46-5	BSD-2-Clause-alike, BSD-2-Clause-netbsd, BSD-2-Clause-regents, MIT-Old-Style-with-legal-disclaimer-2, public-domain
+libmagic1t64	1:5.46-5	file	1:5.46-5	BSD-2-Clause-alike, BSD-2-Clause-netbsd, BSD-2-Clause-regents, MIT-Old-Style-with-legal-disclaimer-2, public-domain
+libmaxminddb0	1.12.2-1	libmaxminddb	1.12.2-1	Apache-2.0, Apache-2.0 or Expat, BSD-2-clause and BSD-3-clause, Expat, LGPL-3.0+
+libmbim-glib4	1.32.0-1	libmbim	1.32.0-1	GFDL-NIV-1.3+, GPL-2+, LGPL-2+
+libmbim-proxy	1.32.0-1	libmbim	1.32.0-1	GFDL-NIV-1.3+, GPL-2+, LGPL-2+
+libmbim-utils	1.32.0-1	libmbim	1.32.0-1	GFDL-NIV-1.3+, GPL-2+, LGPL-2+
+libmd0	1.1.0-2+b1	libmd	1.1.0-2	BSD-2-clause, BSD-2-clause-NetBSD, BSD-3-clause, BSD-3-clause-Aaron-D-Gifford, Beerware, ISC, public-domain-md4, public-domain-md5, public-domain-sha1
+libmd4c0	0.5.2-2+b1	md4c	0.5.2-2	BSD-2-clause, CC-BY-SA-4.0, Expat
+libmm-glib0	1.24.0-1+deb13u1	modemmanager	1.24.0-1+deb13u1	GPL-2.0, GPL-2.0+, GPL-3.0+, LGPL-2.0+
+libmnl0	1.0.5-3	libmnl	1.0.5-3	GPL-2+, LGPL-2.1
+libmodule-find-perl	0.17-1	libmodule-find-perl	0.17-1	Artistic, Artistic or GPL-1+, GPL-1+
+libmount1	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+libmp3lame0	3.100-6+b3	lame	3.100-6	BSD-3-clause, GPL-1+, LGPL-2+, LGPL-2.1+, zlib/libpng
+libmpfr6	4.2.2-1	mpfr4	4.2.2-1	see copyright file
+libmpg123-0t64	1.32.10-1+deb13u1	mpg123	1.32.10-1+deb13u1	LGPL-2.1
+libmtdev1t64	1.1.7-1	mtdev	1.1.7-1	Expat
+libmysofa1	1.3.3+dfsg-1	libmysofa	1.3.3+dfsg-1	BSD-3-clause, CC-BY-4.0, CC-BY-SA-3.0, cipic, listen-ircam, mit-kemar, public-domain
+libncursesw6	6.5+20250216-2	ncurses	6.5+20250216-2	no copyright file
+libndp0	1.9-1+b1	libndp	1.9-1	LGPL-2.1+
+libnet1	1.3+dfsg-2	libnet	1.3+dfsg-2	BSD-2-clause, BSD-3-clause, other
+libnetfilter-conntrack3	1.1.0-1	libnetfilter-conntrack	1.1.0-1	GPL-2+
+libnettle8t64	3.10.1-1	nettle	3.10.1-1	Expat, GAP, GPL-2, GPL-2+, GPL-3+ with Autoconf exception, LGPL-2+, LGPL-3+, LGPL-3+ or GPL-2+, public-domain
+libnewt0.52	0.52.25-1	newt	0.52.25-1	GPL-2+, LGPL-2
+libnfnetlink0	1.0.2-3	libnfnetlink	1.0.2-3	GPL-2.0+
+libnftables1	1.1.3-1	nftables	1.1.3-1	CC-BY-SA-4.0, GPL-2, GPL-2+
+libnftnl11	1.2.9-1	libnftnl	1.2.9-1	GPL-2, GPL-2+
+libnghttp2-14	1.64.0-1.1+deb13u1	nghttp2	1.64.0-1.1+deb13u1	BSD-2-clause, Expat, GPL-3+ with autoconf exception, MIT, all-permissive
+libnghttp3-9	1.8.0-1	nghttp3	1.8.0-1	FSFAP, FSFUL, FSFULLR, FSFULLR and MIT, GPL-2+ with Autoconf generic exception, GPL-2+ with Libtool Exception, GPL-3+, GPL-3+ with Autoconf generic exception, MIT
+libngtcp2-16	1.11.0-1+deb13u1	ngtcp2	1.11.0-1+deb13u1	FSFAP, FSFUL, FSFULLR, FSFULLR and MIT, GPL-2+ with Autoconf generic exception, GPL-2+ with Libtool Exception, GPL-3+, GPL-3+ with Autoconf generic exception, MIT
+libngtcp2-crypto-gnutls8	1.11.0-1+deb13u1	ngtcp2	1.11.0-1+deb13u1	FSFAP, FSFUL, FSFULLR, FSFULLR and MIT, GPL-2+ with Autoconf generic exception, GPL-2+ with Libtool Exception, GPL-3+, GPL-3+ with Autoconf generic exception, MIT
+libnl-3-200	3.7.0-2	libnl3	3.7.0-2	see copyright file
+libnl-genl-3-200	3.7.0-2	libnl3	3.7.0-2	see copyright file
+libnl-route-3-200	3.7.0-2	libnl3	3.7.0-2	see copyright file
+libnm0	1.52.1-1	network-manager	1.52.1-1	GFDL-NIV-1.1+, GPL-2+, LGPL-2.1+
+libnpth0t64	1.8-3	npth	1.8-3	LGPL-2.1+
+libnspr4	2:4.36-1	nspr	2:4.36-1	MPL-2.0
+libnss-mdns	0.15.1-4+b1	nss-mdns	0.15.1-4	LGPL-2+
+libnss-myhostname	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+libnss-systemd	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+libnss3	2:3.110-1+deb13u2	nss	2:3.110-1+deb13u2	BSD-3, MPL-2.0, Zlib, public-domain
+libntfs-3g89t64	1:2022.10.3-5+deb13u1	ntfs-3g	1:2022.10.3-5+deb13u1	GPL-2+, LGPL-2+
+libnuma1	2.0.19-1	numactl	2.0.19-1	see copyright file
+libnvme1t64	1.13-2	libnvme	1.13-2	Apache-2.0, CC0, GPL-2, LGPL-2.1+, MIT
+libogg0	1.3.5-3+b2	libogg	1.3.5-3	BSD-3-clause, rfc3533-license, rfc5334-license
+libonig5	6.9.9-1+b1	libonig	6.9.9-1	BSD-2-clause, GPL-2+
+libopencore-amrnb0	0.1.6-1+b2	opencore-amr	0.1.6-1	see copyright file
+libopenfec1	1.4.2.11+dfsg-1	openfec	1.4.2.11+dfsg-1	BSD-2-Clause, CC-BY-SA-3.0, CeCILL-C, GPL-2.0-or-later, LDPC, LDPC and CeCILL-C, public-domain
+libopengl0	1.7.0-1+b2	libglvnd	1.7.0-1	Apache-2.0, BSD-1-clause, GPL, GPL-3+, MIT, public-domain
+libopenjp2-7	2.5.3-2.1~deb13u2	openjpeg2	2.5.3-2.1~deb13u2	BSD-2, BSD-3, LIBPNG, LIBTIFF, LIBTIFF-GLARSON, LIBTIFF-PIXAR, MIT, ZLIB
+libopus0	1.5.2-2	opus	1.5.2-2	BSD-2-clause, BSD-3-clause
+liborc-0.4-0t64	1:0.4.41-1	orc	1:0.4.41-1	see copyright file
+libp11-kit0	0.25.5-3	p11-kit	0.25.5-3	Apache-2.0, BSD-3-clause, FSFAP, FSFULLR, GPL-2+ with Autoconf-data exception, GPL-3+ with Autoconf-data exception, ISC, LGPL-2.1+, X11, customFSFUL, customFSFULLRWD
+libpam-modules	1.7.0-5	pam	1.7.0-5	BSD-3-clause or GPL, BSD-tcp_wrappers, Beerware, GPL-2, GPL-2+, GPL-3, GPL-3+ with Bison exception, LGPL-2+, public-domain
+libpam-modules-bin	1.7.0-5	pam	1.7.0-5	BSD-3-clause or GPL, BSD-tcp_wrappers, Beerware, GPL-2, GPL-2+, GPL-3, GPL-3+ with Bison exception, LGPL-2+, public-domain
+libpam-runtime	1.7.0-5	pam	1.7.0-5	BSD-3-clause or GPL, BSD-tcp_wrappers, Beerware, GPL-2, GPL-2+, GPL-3, GPL-3+ with Bison exception, LGPL-2+, public-domain
+libpam-systemd	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+libpam-wtmpdb	0.73.0-3+deb13u1	wtmpdb	0.73.0-3+deb13u1	BSD-2-Clause, GPL-2+
+libpam0g	1.7.0-5	pam	1.7.0-5	BSD-3-clause or GPL, BSD-tcp_wrappers, Beerware, GPL-2, GPL-2+, GPL-3, GPL-3+ with Bison exception, LGPL-2+, public-domain
+libpango-1.0-0	1.56.3-1	pango1.0	1.56.3-1	Apache-2, Apache-2 and Bitstream-Vera and OFL-1.1, Bitstream-Vera, Chromium-BSD-style, Example, ICU, LGPL-2+, LGPL-2+ and ICU, LGPL-2+ and LGPL-2.1+, LGPL-2+ and TCL, LGPL-2.1+, OFL-1.1, TCL, Unicode
+libpangocairo-1.0-0	1.56.3-1	pango1.0	1.56.3-1	Apache-2, Apache-2 and Bitstream-Vera and OFL-1.1, Bitstream-Vera, Chromium-BSD-style, Example, ICU, LGPL-2+, LGPL-2+ and ICU, LGPL-2+ and LGPL-2.1+, LGPL-2+ and TCL, LGPL-2.1+, OFL-1.1, TCL, Unicode
+libpangoft2-1.0-0	1.56.3-1	pango1.0	1.56.3-1	Apache-2, Apache-2 and Bitstream-Vera and OFL-1.1, Bitstream-Vera, Chromium-BSD-style, Example, ICU, LGPL-2+, LGPL-2+ and ICU, LGPL-2+ and LGPL-2.1+, LGPL-2+ and TCL, LGPL-2.1+, OFL-1.1, TCL, Unicode
+libparted2t64	3.6-5	parted	3.6-5	see copyright file
+libpcap0.8t64	1.10.5-2	libpcap	1.10.5-2	see copyright file
+libpci3	1:3.13.0-2	pciutils	1:3.13.0-2	GPL-2+
+libpcre2-16-0	10.46-1~deb13u1	pcre2	10.46-1~deb13u1	BSD-2-clause, BSD-3-clause, BSD-3-clause-Cambridge with BINARY LIBRARY-LIKE PACKAGES exception, X11, public-domain
+libpcre2-8-0	10.46-1~deb13u1	pcre2	10.46-1~deb13u1	BSD-2-clause, BSD-3-clause, BSD-3-clause-Cambridge with BINARY LIBRARY-LIKE PACKAGES exception, X11, public-domain
+libpcsclite1	2.3.3-1	pcsc-lite	2.3.3-1	BSD-3-clause, GPL-3+, ISC, MIT
+libperl5.40	5.40.1-6	perl	5.40.1-6	Artistic, Artistic or GPL-1+, Artistic or GPL-1+ or Artistic-dist, Artistic-2, Artistic-dist, BSD-3-clause, BSD-3-clause-GENERIC, BSD-3-clause-with-weird-numbering, BSD-4-clause-POWERDOG, BZIP, CC0-1.0, DONT-CHANGE-THE-GPL, Expat, Expat or GPL-1+ or Artistic, FSFAP, GPL-1+, GPL-1+ or Artistic, GPL-1+ or Artistic or Artistic-dist, GPL-1+ or Artistic, and BSD-3-clause-GENERIC, GPL-1+ or Artistic, and BSD-4-clause-POWERDOG, GPL-1+ or Artistic, and Expat, GPL-1+ or Artistic, and Unicode, GPL-2+, GPL-2+ or Artistic, GPL-3+-WITH-BISON-EXCEPTION, LGPL-2.1, REGCOMP, REGCOMP, and GPL-1+ or Artistic, SDBM-PUBLIC-DOMAIN, TEXT-TABS, Unicode, ZLIB
+libpipeline1	1.5.8-1	libpipeline	1.5.8-1	GPL-2+, GPL-3+
+libpipewire-0.3-0t64	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+libpipewire-0.3-common	1.4.2-1	pipewire	1.4.2-1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+libpipewire-0.3-modules	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+libpixman-1-0	0.44.0-3	pixman	0.44.0-3	see copyright file
+libpng16-16t64	1.6.48-1+deb13u5	libpng1.6	1.6.48-1+deb13u5	Apache-2.0, BSD-3-clause, BSD-like-with-advertising-clause, GPL-2+, GPL-2+ or BSD-like-with-advertising-clause, expat, libpng, libpng OR Apache-2.0 OR BSD-3-clause
+libpolkit-agent-1-0	126-2	policykit-1	126-2	Expat, LGPL-2.0+, LGPL-2.0+ and Expat
+libpolkit-gobject-1-0	126-2	policykit-1	126-2	Expat, LGPL-2.0+, LGPL-2.0+ and Expat
+libpopt0	1.19+dfsg-2	popt	1.19+dfsg-2	GPL-2+, expat, public-domain
+libproc-processtable-perl	0.636-1+b3	libproc-processtable-perl	0.636-1	Artistic, Artistic or GPL-1+, GPL-1+, GPL-2, LGPL-2.1+, other
+libproc2-0	2:4.0.4-9	procps	2:4.0.4-9	GPL-2.0+, LGPL-2.0+, LGPL-2.1+
+libprotobuf-c1	1.5.1-1	protobuf-c	1.5.1-1	BSD-2-Clause, BSD-3-Clause, permissive
+libprotobuf32t64	3.21.12-11	protobuf	3.21.12-11	Apache-2.0, BSD-3-Clause, BSD-3-Clause~Google, Expat, GPL-3, GPLWithACException, Public-Domain, Public-Domain or Expat
+libpsl5t64	0.21.2-1.1+b1	libpsl	0.21.2-1.1	Chromium, MIT, gnulib
+libpulse0	17.0+dfsg1-2+b1	pulseaudio	17.0+dfsg1-2	GPL-2+, LGPL-2+, LGPL-2.1+, other
+libpython3-stdlib	3.13.5-1	python3-defaults	3.13.5-1	see copyright file
+libpython3.13-minimal	3.13.5-2+deb13u2	python3.13	3.13.5-2+deb13u2	* Permission to use this software in any way is granted without, By obtaining, using, and/or copying this software and/or its, Permission  is  hereby granted,  free  of charge,  to  any person, Permission is hereby granted, free of charge, to any person obtaining, Permission to use, copy, modify, and distribute this software and, Permission to use, copy, modify, and distribute this software and its, Permission to use, copy, modify, and distribute this software for any, Redistribution and use in source and binary forms, with or without, This software is provided 'as-is', without any express or implied, This software is provided as-is, without express or implied
+libpython3.13-stdlib	3.13.5-2+deb13u2	python3.13	3.13.5-2+deb13u2	no copyright file
+libqmi-glib5	1.36.0-1	libqmi	1.36.0-1	GFDL-NIV-1.3+, GPL-2+, LGPL-2.0+
+libqmi-proxy	1.36.0-1	libqmi	1.36.0-1	GFDL-NIV-1.3+, GPL-2+, LGPL-2.0+
+libqmi-utils	1.36.0-1	libqmi	1.36.0-1	GFDL-NIV-1.3+, GPL-2+, LGPL-2.0+
+libqrtr-glib0	1.2.2-1+b2	libqrtr-glib	1.2.2-1	GFDL-1.3+, GPL-2+, LGPL-2.1+
+libqrtr1	1.1-2+b1	qrtr	1.1-2	BSD-2-Clause, BSD-3-Clause, GPL-2
+libqt6core6t64	6.8.2+dfsg-9+deb13u2	qt6-base	6.8.2+dfsg-9+deb13u2	Apache-2.0, Apache-2.0 or Expat, BSD-2-clause, BSD-3-clause, Bitstream, Boost-1.0, CC0-1.0, Expat, FTL, GFDL-NIV-1.3, GPL-2, GPL-2+, GPL-2+ or FTL, GPL-3, GPL-3 with Qt-1.0 exception, Harfbuzz, Hybrid-BSD, ICC, ISC, LGPL-3, LGPL-3 or GPL-2, Unicode, W3C, Zlib, brg-endian, libjpeg, libjpeg and BSD-3-clause and Zlib, libpng, public-domain
+libqt6dbus6	6.8.2+dfsg-9+deb13u2	qt6-base	6.8.2+dfsg-9+deb13u2	Apache-2.0, Apache-2.0 or Expat, BSD-2-clause, BSD-3-clause, Bitstream, Boost-1.0, CC0-1.0, Expat, FTL, GFDL-NIV-1.3, GPL-2, GPL-2+, GPL-2+ or FTL, GPL-3, GPL-3 with Qt-1.0 exception, Harfbuzz, Hybrid-BSD, ICC, ISC, LGPL-3, LGPL-3 or GPL-2, Unicode, W3C, Zlib, brg-endian, libjpeg, libjpeg and BSD-3-clause and Zlib, libpng, public-domain
+libqt6gui6	6.8.2+dfsg-9+deb13u2	qt6-base	6.8.2+dfsg-9+deb13u2	Apache-2.0, Apache-2.0 or Expat, BSD-2-clause, BSD-3-clause, Bitstream, Boost-1.0, CC0-1.0, Expat, FTL, GFDL-NIV-1.3, GPL-2, GPL-2+, GPL-2+ or FTL, GPL-3, GPL-3 with Qt-1.0 exception, Harfbuzz, Hybrid-BSD, ICC, ISC, LGPL-3, LGPL-3 or GPL-2, Unicode, W3C, Zlib, brg-endian, libjpeg, libjpeg and BSD-3-clause and Zlib, libpng, public-domain
+libqt6opengl6	6.8.2+dfsg-9+deb13u2	qt6-base	6.8.2+dfsg-9+deb13u2	Apache-2.0, Apache-2.0 or Expat, BSD-2-clause, BSD-3-clause, Bitstream, Boost-1.0, CC0-1.0, Expat, FTL, GFDL-NIV-1.3, GPL-2, GPL-2+, GPL-2+ or FTL, GPL-3, GPL-3 with Qt-1.0 exception, Harfbuzz, Hybrid-BSD, ICC, ISC, LGPL-3, LGPL-3 or GPL-2, Unicode, W3C, Zlib, brg-endian, libjpeg, libjpeg and BSD-3-clause and Zlib, libpng, public-domain
+libqt6openglwidgets6	6.8.2+dfsg-9+deb13u2	qt6-base	6.8.2+dfsg-9+deb13u2	Apache-2.0, Apache-2.0 or Expat, BSD-2-clause, BSD-3-clause, Bitstream, Boost-1.0, CC0-1.0, Expat, FTL, GFDL-NIV-1.3, GPL-2, GPL-2+, GPL-2+ or FTL, GPL-3, GPL-3 with Qt-1.0 exception, Harfbuzz, Hybrid-BSD, ICC, ISC, LGPL-3, LGPL-3 or GPL-2, Unicode, W3C, Zlib, brg-endian, libjpeg, libjpeg and BSD-3-clause and Zlib, libpng, public-domain
+libqt6widgets6	6.8.2+dfsg-9+deb13u2	qt6-base	6.8.2+dfsg-9+deb13u2	Apache-2.0, Apache-2.0 or Expat, BSD-2-clause, BSD-3-clause, Bitstream, Boost-1.0, CC0-1.0, Expat, FTL, GFDL-NIV-1.3, GPL-2, GPL-2+, GPL-2+ or FTL, GPL-3, GPL-3 with Qt-1.0 exception, Harfbuzz, Hybrid-BSD, ICC, ISC, LGPL-3, LGPL-3 or GPL-2, Unicode, W3C, Zlib, brg-endian, libjpeg, libjpeg and BSD-3-clause and Zlib, libpng, public-domain
+libraqm0	0.10.2-1	raqm	0.10.2-1	MIT
+libraw1394-11	2.1.2-2+b2	libraw1394	2.1.2-2	see copyright file
+libreadline8t64	8.2-6	readline	8.2-6	GFDL-NIV-1.3+, GPL-2+, GPL-3, GPL-3+, ISC-no-attribution
+libroc0.4	0.4.0+dfsg-5	roc-toolkit	0.4.0+dfsg-5	CC0-1.0, MIT-0, MIT-0 or Unlicense, MPL-2.0, Unlicense
+librsvg2-2	2.60.0+dfsg-1	librsvg	2.60.0+dfsg-1	0BSD, Apache-2.0, Apache-2.0, and BSD-2-clause, and BSD-3-clause, and Expat, and Apache-2.0 or Expat or 0BSD, and Apache-2.0 or Boost-1.0, and Apache-2.0 or Expat, and Expat or Unlicense, and MPL-2.0, and Sun-permissive, and zlib, BSD-2-clause, BSD-3-clause, Boost-1.0, CC-zero-waive-1.0-us, Expat, FSFAP, LGPL-2+, MPL-2.0, OFL-1.1, Sun-permissive, Unlicense, zlib
+librsvg2-common	2.60.0+dfsg-1	librsvg	2.60.0+dfsg-1	0BSD, Apache-2.0, Apache-2.0, and BSD-2-clause, and BSD-3-clause, and Expat, and Apache-2.0 or Expat or 0BSD, and Apache-2.0 or Boost-1.0, and Apache-2.0 or Expat, and Expat or Unlicense, and MPL-2.0, and Sun-permissive, and zlib, BSD-2-clause, BSD-3-clause, Boost-1.0, CC-zero-waive-1.0-us, Expat, FSFAP, LGPL-2+, MPL-2.0, OFL-1.1, Sun-permissive, Unlicense, zlib
+librtmp1	2.4+20151223.gitfa8646d.1-2+b5	rtmpdump	2.4+20151223.gitfa8646d.1-2	see copyright file
+libsamplerate0	0.2.2-4+b2	libsamplerate	0.2.2-4	BSD-2-clause, FSFAP, GPL-2+, GPL-3+
+libsasl2-2	2.1.28+dfsg1-9	cyrus-sasl2	2.1.28+dfsg1-9	BSD-2-clause, BSD-2-clause and MIT-CMU, BSD-2.2-clause, BSD-3-Clause-Attribution, BSD-3-Clause-Attribution and IBM-as-is, BSD-3-Clause-Attribution and MIT-Export, BSD-3-clause, BSD-3-clause-JANET, BSD-3-clause-JANET and BSD-3-Clause-Attribution, BSD-3-clause-PADL, BSD-3-clause-PADL and MIT-OpenVision, BSD-4-clause-UC, FSFULLR, FSFULLR and MIT-CMU, GPL-3, GPL-3+, IBM-as-is, MIT-CMU, MIT-Export, MIT-OpenVision, OpenLDAP, RSA-MD
+libsasl2-modules	2.1.28+dfsg1-9	cyrus-sasl2	2.1.28+dfsg1-9	BSD-2-clause, BSD-2-clause and MIT-CMU, BSD-2.2-clause, BSD-3-Clause-Attribution, BSD-3-Clause-Attribution and IBM-as-is, BSD-3-Clause-Attribution and MIT-Export, BSD-3-clause, BSD-3-clause-JANET, BSD-3-clause-JANET and BSD-3-Clause-Attribution, BSD-3-clause-PADL, BSD-3-clause-PADL and MIT-OpenVision, BSD-4-clause-UC, FSFULLR, FSFULLR and MIT-CMU, GPL-3, GPL-3+, IBM-as-is, MIT-CMU, MIT-Export, MIT-OpenVision, OpenLDAP, RSA-MD
+libsasl2-modules-db	2.1.28+dfsg1-9	cyrus-sasl2	2.1.28+dfsg1-9	BSD-2-clause, BSD-2-clause and MIT-CMU, BSD-2.2-clause, BSD-3-Clause-Attribution, BSD-3-Clause-Attribution and IBM-as-is, BSD-3-Clause-Attribution and MIT-Export, BSD-3-clause, BSD-3-clause-JANET, BSD-3-clause-JANET and BSD-3-Clause-Attribution, BSD-3-clause-PADL, BSD-3-clause-PADL and MIT-OpenVision, BSD-4-clause-UC, FSFULLR, FSFULLR and MIT-CMU, GPL-3, GPL-3+, IBM-as-is, MIT-CMU, MIT-Export, MIT-OpenVision, OpenLDAP, RSA-MD
+libsbc1	2.1-1	sbc	2.1-1	GPL-2+, LGPL-2.1+
+libsdl2-2.0-0	2.32.4+dfsg-1	libsdl2	2.32.4+dfsg-1	Apache-2.0, BSD-3-clause, BSD-3-clause or GPL-3 or hidapi-orig, and zlib/libpng, BSD-3-clause-chromium, BSD-3-clause-kitware, BrownUn_UnCalifornia_ErikCorry, Expat, Expat and MIT-open-group, Expat-like, GPL-3, Gareth_McCaughan, LGPL-2.1+, MIT-open-group, Mozilla-permissive, Mozilla-permissive and Expat and zlib/libpng, PublicDomain_David_Ludwig, PublicDomain_Edgar_Simo, PublicDomain_Sam_Lantinga, RSA_Data_Security, SGI-Free-Software-License-B, SunPro, hidapi-orig, zlib-libpng-like-permissive, zlib/libpng, zlib/libpng and Expat-like and Apache-2.0, zlib/libpng and RSA_Data_Security, zlib/libpng and zlib-libpng-like-permissive
+libseccomp2	2.6.0-2	libseccomp	2.6.0-2	LGPL-2.1
+libsecret-1-0	0.21.7-1	libsecret	0.21.7-1	Apache-2.0, BSD-3-clause, GPL-2+, LGPL-2.1+
+libsecret-common	0.21.7-1	libsecret	0.21.7-1	Apache-2.0, BSD-3-clause, GPL-2+, LGPL-2.1+
+libselinux1	3.8.1-1	libselinux	3.8.1-1	GPL-2, public-domain
+libsemanage-common	3.8.1-1	libsemanage	3.8.1-1	GPL-2, LGPL-2.1+
+libsemanage2	3.8.1-1	libsemanage	3.8.1-1	GPL-2, LGPL-2.1+
+libsensors-config	1:3.6.2-2	lm-sensors	1:3.6.2-2	GPL-2, GPL-2+, LGPL-2.1+, Linux-man-pages-copyleft
+libsensors5	1:3.6.2-2	lm-sensors	1:3.6.2-2	GPL-2, GPL-2+, LGPL-2.1+, Linux-man-pages-copyleft
+libsepol2	3.8.1-1	libsepol	3.8.1-1	GPL-2, GPL-2+, LGPL-2.1+, Zlib
+libserd-0-0	0.32.4-1	serd	0.32.4-1	0BSD, BSD-3-clause, ISC
+libsharpyuv0	1.5.0-0.1	libwebp	1.5.0-0.1	Apache-2.0, BSD-3-Clause
+libsigc++-2.0-0v5	2.12.1-3	libsigc++-2.0	2.12.1-3	GPL-3.0-or-later, LGPL-2.1-or-later, LGPL-3.0-or-later, Public-Domain, permissive-axboost-1
+libslang2	2.3.3-5+b2	slang2	2.3.3-5	GPL-2+
+libsm6	2:1.2.6-1	libsm	2:1.2.6-1	see copyright file
+libsmartcols1	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+libsmi2t64	0.4.8+dfsg2-17+b1	libsmi	0.4.8+dfsg2-17	see copyright file
+libsnappy1v5	1.2.2-1	snappy	1.2.2-1	BSD-3-Clause, CC-BY-3.0, CC-BY-4.0, MIT, public-domain
+libsndfile1	1.2.2-2+deb13u1	libsndfile	1.2.2-2+deb13u1	Apache-2.0, BSD-2-clause, BSD-3-clause, BSD-3-clause and LGPL-2.1+, FSFAP, GPL-2+, GPL-3+, LGPL-2+, LGPL-2.1+, NTP, gsm, sun
+libsodium23	1.0.18-1+deb13u1	libsodium	1.0.18-1+deb13u1	BSD-2-clause, CC0, GPL-2+, ISC, MIT, public-domain
+libsord-0-0	0.16.18-1	sord	0.16.18-1	ISC
+libsort-naturally-perl	1.03-4	libsort-naturally-perl	1.03-4	Artistic, Artistic or GPL-1+, GPL-1+
+libspa-0.2-bluetooth	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+libspa-0.2-libcamera	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+libspa-0.2-modules	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+libspandsp2t64	0.0.6+dfsg-2.2	spandsp	0.0.6+dfsg-2.2	see copyright file
+libspeexdsp1	1.2.1-3	speexdsp	1.2.1-3	BSD-3-Clause, CC0-1.0, GFDL-1.1-or-later
+libsqlite3-0	3.46.1-7+deb13u1	sqlite3	3.46.1-7+deb13u1	GPL-2+, public-domain
+libsratom-0-0	0.6.18-1	sratom	0.6.18-1	0BSD, ISC
+libss2	1.47.2-3+b11	e2fsprogs	1.47.2-3	0BSD, Apache-2, BSD-3-Clause, BSD-3-Clause-Variant, BSD-4-Clause-CMU, Expat, GPL or MIT-US-export, GPL-2, GPL-2+, GPL-2+ with Texinfo exception, ISC, Kazlib, LGPL-2, Latex2e
+libssh-4	0.11.5-0+deb13u1	libssh	0.11.5-0+deb13u1	BSD-2-clause, BSD-3-clause, ISC, LGPL-2.1, LGPL-2.1+~OpenSSL, LGPL-2.1+~OpenSSL or BSD-2-clause or BSD-3-clause, public-domain
+libssh2-1t64	1.11.1-1	libssh2	1.11.1-1	BSD3, ISC
+libssl3t64	3.5.6-1~deb13u1	openssl	3.5.6-1~deb13u1	Apache-2.0, Artistic, Artistic or GPL-1+, GPL-1+
+libstdc++6	14.2.0-19	gcc-14	14.2.0-19	no copyright file
+libsystemd-shared	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+libsystemd0	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+libtasn1-6	4.20.0-2	libtasn1-6	4.20.0-2	see copyright file
+libteamdctl0	1.31-1+b2	libteam	1.31-1	BSD-3-clause, BSD-3-clause or GPL-2, GPL-2, LGPL-2.1+
+libterm-readkey-perl	2.38-2+b4	libterm-readkey-perl	2.38-2	Artistic, Artistic or GPL-1+, GPL-1+, termreadkey, termreadkey or Artistic or GPL-1+
+libtext-charwidth-perl	0.04-11+b4	libtext-charwidth-perl	0.04-11	Artistic, Artistic or GPL-1+, GPL-1+
+libtext-iconv-perl	1.7-8+b4	libtext-iconv-perl	1.7-8	Artistic, Artistic or GPL-1+, GPL-1+
+libtext-wrapi18n-perl	0.06-10	libtext-wrapi18n-perl	0.06-10	Artistic, Artistic or GPL-1+, GPL-1+
+libthai-data	0.1.29-2	libthai	0.1.29-2	GPL-2+, LGPL-2.1+
+libthai0	0.1.29-2+b1	libthai	0.1.29-2	GPL-2+, LGPL-2.1+
+libtheoradec1	1.2.0~alpha1+dfsg-6	libtheora	1.2.0~alpha1+dfsg-6	BSD-3-Clause, BSD-4-Clause, GPL-2+, LGPL-2+
+libtheoraenc1	1.2.0~alpha1+dfsg-6	libtheora	1.2.0~alpha1+dfsg-6	BSD-3-Clause, BSD-4-Clause, GPL-2+, LGPL-2+
+libtiff6	4.7.0-3+deb13u2	tiff	4.7.0-3+deb13u2	Hylafax
+libtinfo6	6.5+20250216-2	ncurses	6.5+20250216-2	BSD-3-clause, MIT/X11, X11
+libtirpc-common	1.3.6+ds-1	libtirpc	1.3.6+ds-1	BSD-2-Clause, BSD-3-Clause, BSD-4-Clause, GPL-2, LGPL-2.1+, PERMISSIVE, __AUTO_PERMISSIVE__
+libtirpc3t64	1.3.6+ds-1	libtirpc	1.3.6+ds-1	BSD-2-Clause, BSD-3-Clause, BSD-4-Clause, GPL-2, LGPL-2.1+, PERMISSIVE, __AUTO_PERMISSIVE__
+libts0t64	1.22-1.1+b1	tslib	1.22-1.1	GPL-2+, LGPL-2+
+libuchardet0	0.0.8-1+b2	uchardet	0.0.8-1	GPL-2+, LGPL-2.1+, MPL-1.1, MPL-1.1 or GPL-2+ or LGPL-2.1+
+libudev1	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+libudfread0	1.1.2-1+b2	libudfread	1.1.2-1	GPL-2+ with autoconf-macro exception, LGPL-2.1+
+libudisks2-0	2.10.1-12.1+deb13u1	udisks2	2.10.1-12.1+deb13u1	GPL-2+, LGPL-2+
+libunistring5	1.3-2	libunistring	1.3-2	BSD-3-clause or LGPL-2.1+, BSD-3-clause or LGPL-3+, FreeSoftware, GFDL-1.2+ or GPL-3+ or LGPL-3, GFDL-1.3+, GPL-2+, GPL-2+ with distribution exception, GPL-2+ with distribution exception, Expat and GPL-2+, GPL-3+, ISC or LGPL-2.1+, LGPL-2+, LGPL-2+ or LGPL-3+, LGPL-2.1+, LGPL-3, LGPL-3+, Unicode-DFS-2016, X11, bsd-3-clause, gfdl-1.2+, gfdl-1.3+, isc, public-domain, unicode-dfs-2016
+liburcu8t64	0.15.2-2	liburcu	0.15.2-2	BSD-2-Clause, CC-BY-4.0, CC-BY-4.0 or Expat or GPL-2 or LGPL-2.1, CC0-1.0, Expat, Expat~Boehm, FSFAP, GPL-2, GPL-2 with Autoconf-data exception, GPL-2+, GPL-2+ with Autoconf-2.0~Archive exception, GPL-3+, GPL-3+ with Autoconf-2.0~Archive exception, LGPL-2.1, LGPL-2.1+
+libusb-1.0-0	2:1.0.28-1	libusb-1.0	2:1.0.28-1	FSFAP, GPL-2+, LGPL-2.1+, MIT
+libuuid1	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+libuv1t64	1.50.0-2	libuv1	1.50.0-2	Apache-2.0, BSD-2-clause, CC-BY-4.0, Expat, GPL3+ with autoconf exception, ISC
+libv4l-0t64	1.30.1-1	v4l-utils	1.30.1-1	BSD-2-clause, BSD-3-clause, BSD-3-clause or GPL-2, BSD-3-clause or GPL-2+, BSD-3-clause or LGPL-2.1, Expat, FSFULLR, GPL-2, GPL-2+, GPL-3+, HPND-sell-variant, LGPL, LGPL-2+, LGPL-2.1, LGPL-2.1+, jpeg-group
+libv4l2rds0t64	1.30.1-1	v4l-utils	1.30.1-1	BSD-2-clause, BSD-3-clause, BSD-3-clause or GPL-2, BSD-3-clause or GPL-2+, BSD-3-clause or LGPL-2.1, Expat, FSFULLR, GPL-2, GPL-2+, GPL-3+, HPND-sell-variant, LGPL, LGPL-2+, LGPL-2.1, LGPL-2.1+, jpeg-group
+libv4lconvert0t64	1.30.1-1	v4l-utils	1.30.1-1	BSD-2-clause, BSD-3-clause, BSD-3-clause or GPL-2, BSD-3-clause or GPL-2+, BSD-3-clause or LGPL-2.1, Expat, FSFULLR, GPL-2, GPL-2+, GPL-3+, HPND-sell-variant, LGPL, LGPL-2+, LGPL-2.1, LGPL-2.1+, jpeg-group
+libvisual-0.4-0	0.4.2-2+b2	libvisual	0.4.2-2	GPL-2+, LGPL-2+, LGPL-2.1+
+libvolume-key1	0.3.12-9	volume-key	0.3.12-9	GPL-2, GPL-2+, MPL-1.1 or GPL-2+ or LGPL-2.1+
+libvorbis0a	1.3.7-3	libvorbis	1.3.7-3	BSD-3-Clause, RFC-special
+libvorbisenc2	1.3.7-3	libvorbis	1.3.7-3	BSD-3-Clause, RFC-special
+libvulkan1	1.4.309.0-1	vulkan-loader	1.4.309.0-1	Apache-2.0, MIT, MIT or Apache-2.0
+libwacom-common	2.14.0-1	libwacom	2.14.0-1	MIT, permissive
+libwacom9	2.14.0-1	libwacom	2.14.0-1	MIT, permissive
+libwayland-client0	1.23.1-3	wayland	1.23.1-3	X11
+libwayland-cursor0	1.23.1-3	wayland	1.23.1-3	X11
+libwayland-egl1	1.23.1-3	wayland	1.23.1-3	X11
+libwebkit2gtk-4.0-doc	2.48.3-1qcom1	webkit2gtk	2.48.3-1qcom1	AFL-2.0, AFL-2.0 or LGPL-2+, Apache-2.0, BSD-2-Clause-Patent, BSD-2-clause, BSD-2-clause or BSL-1.0, BSD-2-clause or Expat, BSD-3-clause-adam-barth, BSD-3-clause-apple, BSD-3-clause-canon, BSD-3-clause-code-aurora, BSD-3-clause-copyright-holder, BSD-3-clause-ericsson, BSD-3-clause-google, BSD-3-clause-jochen-kalmbach, BSD-3-clause-microsoft, BSD-3-clause-motorola, BSD-3-clause-opera, BSD-4-clause-valgrind, BSL-1.0, Expat, GPL-2+, GPL-2+ or LGPL-2.1+ or MPL-1.1, GPL-2+ with Bison exception, GPL-3+, GPL-3+ with Bison exception, ISC, LGPL-2, LGPL-2+, LGPL-2+ or MPL-1.1, LGPL-2.1, LGPL-2.1+, LGPL-2.1+ or MPL-1.1, MPL-1.1, MPL-2.0
+libwebkitgtk-doc	2.48.3-1qcom1	webkit2gtk	2.48.3-1qcom1	AFL-2.0, AFL-2.0 or LGPL-2+, Apache-2.0, BSD-2-Clause-Patent, BSD-2-clause, BSD-2-clause or BSL-1.0, BSD-2-clause or Expat, BSD-3-clause-adam-barth, BSD-3-clause-apple, BSD-3-clause-canon, BSD-3-clause-code-aurora, BSD-3-clause-copyright-holder, BSD-3-clause-ericsson, BSD-3-clause-google, BSD-3-clause-jochen-kalmbach, BSD-3-clause-microsoft, BSD-3-clause-motorola, BSD-3-clause-opera, BSD-4-clause-valgrind, BSL-1.0, Expat, GPL-2+, GPL-2+ or LGPL-2.1+ or MPL-1.1, GPL-2+ with Bison exception, GPL-3+, GPL-3+ with Bison exception, ISC, LGPL-2, LGPL-2+, LGPL-2+ or MPL-1.1, LGPL-2.1, LGPL-2.1+, LGPL-2.1+ or MPL-1.1, MPL-1.1, MPL-2.0
+libwebp7	1.5.0-0.1	libwebp	1.5.0-0.1	Apache-2.0, BSD-3-Clause
+libwebpdemux2	1.5.0-0.1	libwebp	1.5.0-0.1	Apache-2.0, BSD-3-Clause
+libwebpmux3	1.5.0-0.1	libwebp	1.5.0-0.1	Apache-2.0, BSD-3-Clause
+libwebrtc-audio-processing-1-3	1.3-3+b1	webrtc-audio-processing	1.3-3	BSD-2-Clause, BSD-3-Clause, BSD-3-clause, Custom-FFT, FFTPACK
+libwireplumber-0.5-0	0.5.8-2	wireplumber	0.5.8-2	MIT
+libwireshark-data	4.4.19-0+deb13u1	wireshark	4.4.19-0+deb13u1	BSD-2-clause, BSD-2-clause-NetBSD, BSD-2-clause-no-conditions, BSD-3-clause, BSD-3-clause-Endance, CC0-1.0, FSL-Kaz, GPL-2+, GPL-3+, LGPL-2+, public-domain
+libwireshark18	4.4.19-0+deb13u1	wireshark	4.4.19-0+deb13u1	BSD-2-clause, BSD-2-clause-NetBSD, BSD-2-clause-no-conditions, BSD-3-clause, BSD-3-clause-Endance, CC0-1.0, FSL-Kaz, GPL-2+, GPL-3+, LGPL-2+, public-domain
+libwiretap15	4.4.19-0+deb13u1	wireshark	4.4.19-0+deb13u1	BSD-2-clause, BSD-2-clause-NetBSD, BSD-2-clause-no-conditions, BSD-3-clause, BSD-3-clause-Endance, CC0-1.0, FSL-Kaz, GPL-2+, GPL-3+, LGPL-2+, public-domain
+libwrap0	7.6.q-36	tcp-wrappers	7.6.q-36	BSD-3-clause, SSH, TCP-wrappers
+libwsutil16	4.4.19-0+deb13u1	wireshark	4.4.19-0+deb13u1	BSD-2-clause, BSD-2-clause-NetBSD, BSD-2-clause-no-conditions, BSD-3-clause, BSD-3-clause-Endance, CC0-1.0, FSL-Kaz, GPL-2+, GPL-3+, LGPL-2+, public-domain
+libwtmpdb0	0.73.0-3+deb13u1	wtmpdb	0.73.0-3+deb13u1	BSD-2-Clause, GPL-2+
+libx11-6	2:1.8.12-1	libx11	2:1.8.12-1	see copyright file
+libx11-data	2:1.8.12-1	libx11	2:1.8.12-1	see copyright file
+libx11-xcb1	2:1.8.12-1	libx11	2:1.8.12-1	see copyright file
+libxau6	1:1.0.11-1	libxau	1:1.0.11-1	see copyright file
+libxaw7	2:1.0.16-1	libxaw	2:1.0.16-1	see copyright file
+libxcb-cursor0	0.1.5-1	xcb-util-cursor	0.1.5-1	MIT/X
+libxcb-dri3-0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-glx0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-icccm4	0.4.2-1	xcb-util-wm	0.4.2-1	GPL-2+, MIT/X Consortium License
+libxcb-image0	0.4.0-2+b2	xcb-util-image	0.4.0-2	GPL-2+, MIT/X11
+libxcb-keysyms1	0.4.1-1	xcb-util-keysyms	0.4.1-1	GPL-2+, MIT/X11
+libxcb-present0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-randr0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-render-util0	0.3.10-1	xcb-util-renderutil	0.3.10-1	Expat, GPL-2+
+libxcb-render0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-shape0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-shm0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-sync1	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-util1	0.4.1-1	xcb-util	0.4.1-1	GPL-2+, MIT
+libxcb-xfixes0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-xinput0	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb-xkb1	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcb1	1.17.0-2+b1	libxcb	1.17.0-2	see copyright file
+libxcomposite1	1:0.4.6-1	libxcomposite	1:0.4.6-1	see copyright file
+libxcursor1	1:1.2.3-1	libxcursor	1:1.2.3-1	see copyright file
+libxdmcp6	1:1.1.5-1	libxdmcp	1:1.1.5-1	see copyright file
+libxext6	2:1.3.4-1+b3	libxext	2:1.3.4-1	see copyright file
+libxfixes3	1:6.0.0-2+b4	libxfixes	1:6.0.0-2	see copyright file
+libxft2	2.3.6-1+b4	xft	2.3.6-1	see copyright file
+libxi6	2:1.8.2-1	libxi	2:1.8.2-1	see copyright file
+libxinerama1	2:1.1.4-3+b4	libxinerama	2:1.1.4-3	see copyright file
+libxkbcommon-x11-0	1.7.0-2	libxkbcommon	1.7.0-2	see copyright file
+libxkbcommon0	1.7.0-2	libxkbcommon	1.7.0-2	see copyright file
+libxkbfile1	1:1.1.0-1+b4	libxkbfile	1:1.1.0-1	see copyright file
+libxml++2.6-2v5	2.42.3-2	libxml++2.6	2.42.3-2	GPL-2+, LGPL-2.1+
+libxml2	2.12.7+dfsg+really2.9.14-2.1+deb13u2	libxml2	2.12.7+dfsg+really2.9.14-2.1+deb13u2	ISC, MIT-1
+libxmlb2	0.3.22-1	libxmlb	0.3.22-1	CC0-1.0, LGPL-2.1+
+libxmu6	2:1.1.3-3+b4	libxmu	2:1.1.3-3	see copyright file
+libxmuu1	2:1.1.3-3+b4	libxmu	2:1.1.3-3	see copyright file
+libxpm4	1:3.5.17-1+b3	libxpm	1:3.5.17-1	see copyright file
+libxrandr2	2:1.5.4-1+b3	libxrandr	2:1.5.4-1	see copyright file
+libxrender1	1:0.9.12-1	libxrender	1:0.9.12-1	see copyright file
+libxshmfence1	1.3.3-1	libxshmfence	1.3.3-1	see copyright file
+libxss1	1:1.2.3-1+b3	libxss	1:1.2.3-1	see copyright file
+libxt6t64	1:1.2.1-1.2+b2	libxt	1:1.2.1-1.2	see copyright file
+libxtables12	1.8.11-2	iptables	1.8.11-2	Artistic, GPL-2, GPL-2+, custom
+libxtst6	2:1.2.5-1	libxtst	2:1.2.5-1	see copyright file
+libxv1	2:1.0.11-1.1+b3	libxv	2:1.0.11-1.1	see copyright file
+libxxf86dga1	2:1.1.5-1+b3	libxxf86dga	2:1.1.5-1	see copyright file
+libxxf86vm1	1:1.1.4-1+b4	libxxf86vm	1:1.1.4-1	see copyright file
+libxxhash0	0.8.3-2	xxhash	0.8.3-2	BSD-2-clause, BSD-2-clause or GPL-2+, GPL-2+
+libyaml-0-2	0.2.5-2	libyaml	0.2.5-2	Expat, permissive
+libyuv0	0.0.1904.20250204-1	libyuv	0.0.1904.20250204-1	BSD-3-Clause, public-domain
+libz3-4	4.13.3-1	z3	4.13.3-1	Expat, GPL-2+
+libzix-0-0	0.6.2-1	zix	0.6.2-1	0BSD, 0BSD or ISC, ISC
+libzstd1	1.5.7+dfsg-1	libzstd	1.5.7+dfsg-1	BSD-3-clause, BSD-3-clause or GPL-2, Expat, GPL-2, zlib
+linux-base	4.12.1	linux-base	4.12.1	GPL-2, LGPL-2.1+
+linux-image-7.0.0-g122c2c22d838	7.0.0-g122c2c22d838-1	linux-upstream	7.0.0-g122c2c22d838-1	see copyright file
+linux-sysctl-defaults	4.12.1	linux-base	4.12.1	GPL-2, LGPL-2.1+
+locales	2.41-12+deb13u3	glibc	2.41-12+deb13u3	BSD-2-clause, BSD-2-clause or GPL-2, BSD-3-clause-Berkeley, BSD-3-clause-Berkeley and BSD-3-clause-WIDE, BSD-3-clause-Berkeley and DEC, BSD-3-clause-Berkeley and DEC and IBM and ISC, BSD-3-clause-Berkeley and DEC and ISC, BSD-3-clause-Berkeley and DEC and ISC and LGPL-2.1+, BSD-3-clause-Berkeley and DEC and LGPL-2.1+, BSD-3-clause-Berkeley and ISC, BSD-3-clause-Berkeley and LGPL-2.1+, BSD-3-clause-Berkeley and LGPL-2.1+ and Univ-Coimbra, BSD-3-clause-Carnegie, BSD-3-clause-Oracle, BSD-3-clause-WIDE, BSD-like-Spencer, BSL-1.0, CORE-MATH, Carnegie, Carnegie and LGPL-2.1+, DEC, FSFAP, GPL-2, GPL-2+, GPL-2+-with-link-exception, GPL-3+, IBM, IBM and ISC, ISC, ISC and LGPL-2.1+, Inner-Net, Inner-Net and LGPL-2.1+, LGPL-2+, LGPL-2.1+, LGPL-2.1+ and GPL-2, LGPL-2.1+ and SunPro, LGPL-2.1+-with-link-exception, LGPL-3+, MIT-like-Lord, PCRE, SunPro, Unicode-DFS-2016, Univ-Coimbra, public-domain
+login	1:4.16.0-2+really2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+login.defs	1:4.17.4-2	shadow	1:4.17.4-2	BSD-3-clause, GPL-1, GPL-2+
+logrotate	3.22.0-1+b2	logrotate	3.22.0-1	BSD-3-Clause, GPL-2, GPL-3+
+logsave	1.47.2-3+b11	e2fsprogs	1.47.2-3	0BSD, Apache-2, BSD-3-Clause, BSD-3-Clause-Variant, BSD-4-Clause-CMU, Expat, GPL or MIT-US-export, GPL-2, GPL-2+, GPL-2+ with Texinfo exception, ISC, Kazlib, LGPL-2, Latex2e
+lrzsz	0.12.21rc-0.2	lrzsz	0.12.21rc-0.2	see copyright file
+lsof	4.99.4+dfsg-2	lsof	4.99.4+dfsg-2	BSD-4-clause, FSFAP, GPL-2+, PD, Purdue
+man-db	2.13.1-1	man-db	2.13.1-1	GPL-2+, GPL-3+
+manpages	6.9.1-1	manpages	6.9.1-1	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSD-4-clause and Linux-man-pages-copyleft, Expat, GPL-1+, GPL-2, GPL-2+, GPL-2+ and Linux-man-pages-copyleft, GPL-3, Linux-man-pages-1-para, Linux-man-pages-copyleft, Linux-man-pages-copyleft-2-para, Linux-man-pages-copyleft-var, may be freely modified and distributed
+mawk	1.3.4.20250131-1	mawk	1.3.4.20250131-1	CC-BY-3.0, GPL-2.0-only, X11
+media-types	13.0.0	media-types	13.0.0	ad-hoc
+mesa-libgallium	25.2.6-1~bpo13+1	mesa	25.2.6-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-3-google, BSL, GPL, GPL-1+, GPL-2, GPL-2 or MIT, Khronos, MIT, MLAA, SGI
+mesa-opencl-icd	25.2.6-1~bpo13+1	mesa	25.2.6-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-3-google, BSL, GPL, GPL-1+, GPL-2, GPL-2 or MIT, Khronos, MIT, MLAA, SGI
+mesa-utils-bin	9.0.0-2+b2	mesa-demos	9.0.0-2	see copyright file
+mesa-vulkan-drivers	25.2.6-1~bpo13+1	mesa	25.2.6-1~bpo13+1	Apache-2.0, BSD-2-clause, BSD-3-google, BSL, GPL, GPL-1+, GPL-2, GPL-2 or MIT, Khronos, MIT, MLAA, SGI
+minicom	2.10-1	minicom	2.10-1	see copyright file
+modemmanager	1.24.0-1+deb13u1	modemmanager	1.24.0-1+deb13u1	GPL-2.0, GPL-2.0+, GPL-3.0+, LGPL-2.0+
+mount	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+nano	8.4-1+deb13u1	nano	8.4-1+deb13u1	GFDL-NIV+, GFDL-NIV+ or GPL-3+, GPL-3+
+ncurses-base	6.5+20250216-2	ncurses	6.5+20250216-2	BSD-3-clause, MIT/X11, X11
+ncurses-bin	6.5+20250216-2	ncurses	6.5+20250216-2	BSD-3-clause, MIT/X11, X11
+ncurses-term	6.5+20250216-2	ncurses	6.5+20250216-2	BSD-3-clause, MIT/X11, X11
+needrestart	3.11-1	needrestart	3.11-1	GPL-2
+net-tools	2.10-1.3	net-tools	2.10-1.3	GPL-2+
+netbase	6.5	netbase	6.5	GPL-2
+netcat-traditional	1.10-50	netcat	1.10-50	see copyright file
+network-manager	1.52.1-1	network-manager	1.52.1-1	GFDL-NIV-1.1+, GPL-2+, LGPL-2.1+
+network-manager-l10n	1.52.1-1	network-manager	1.52.1-1	GFDL-NIV-1.1+, GPL-2+, LGPL-2.1+
+nftables	1.1.3-1	nftables	1.1.3-1	CC-BY-SA-4.0, GPL-2, GPL-2+
+ntfs-3g	1:2022.10.3-5+deb13u1	ntfs-3g	1:2022.10.3-5+deb13u1	GPL-2+, LGPL-2+
+ocl-icd-libopencl1	2.3.3-1	ocl-icd	2.3.3-1	Apache-2.0, BSD-2-Clause
+openssh-client	1:10.0p1-7+deb13u4	openssh	1:10.0p1-7+deb13u4	BSD-2-clause, BSD-3-clause, Expat-with-advertising-restriction, Mazieres-BSD-style, OpenSSH, Powell-BSD-style, public-domain
+openssh-server	1:10.0p1-7+deb13u4	openssh	1:10.0p1-7+deb13u4	no copyright file
+openssh-sftp-server	1:10.0p1-7+deb13u4	openssh	1:10.0p1-7+deb13u4	no copyright file
+openssl	3.5.6-1~deb13u1	openssl	3.5.6-1~deb13u1	Apache-2.0, Artistic, Artistic or GPL-1+, GPL-1+
+openssl-provider-legacy	3.5.6-1~deb13u1	openssl	3.5.6-1~deb13u1	Apache-2.0, Artistic, Artistic or GPL-1+, GPL-1+
+parted	3.6-5	parted	3.6-5	no copyright file
+passwd	1:4.17.4-2	shadow	1:4.17.4-2	BSD-3-clause, GPL-1, GPL-2+
+patch	2.8-2	patch	2.8-2	GPL-3+
+pci.ids	0.0~2025.06.09-1	pci.ids	0.0~2025.06.09-1	BSD-3-clause, GPL-2+, GPL-2+ or BSD-3-clause
+pciutils	1:3.13.0-2	pciutils	1:3.13.0-2	GPL-2+
+perl	5.40.1-6	perl	5.40.1-6	Artistic, Artistic or GPL-1+, Artistic or GPL-1+ or Artistic-dist, Artistic-2, Artistic-dist, BSD-3-clause, BSD-3-clause-GENERIC, BSD-3-clause-with-weird-numbering, BSD-4-clause-POWERDOG, BZIP, CC0-1.0, DONT-CHANGE-THE-GPL, Expat, Expat or GPL-1+ or Artistic, FSFAP, GPL-1+, GPL-1+ or Artistic, GPL-1+ or Artistic or Artistic-dist, GPL-1+ or Artistic, and BSD-3-clause-GENERIC, GPL-1+ or Artistic, and BSD-4-clause-POWERDOG, GPL-1+ or Artistic, and Expat, GPL-1+ or Artistic, and Unicode, GPL-2+, GPL-2+ or Artistic, GPL-3+-WITH-BISON-EXCEPTION, LGPL-2.1, REGCOMP, REGCOMP, and GPL-1+ or Artistic, SDBM-PUBLIC-DOMAIN, TEXT-TABS, Unicode, ZLIB
+perl-base	5.40.1-6	perl	5.40.1-6	Artistic, Artistic or GPL-1+, Artistic or GPL-1+ or Artistic-dist, Artistic-2, Artistic-dist, BSD-3-clause, BSD-3-clause-GENERIC, BSD-3-clause-with-weird-numbering, BSD-4-clause-POWERDOG, BZIP, CC0-1.0, DONT-CHANGE-THE-GPL, Expat, Expat or GPL-1+ or Artistic, FSFAP, GPL-1+, GPL-1+ or Artistic, GPL-1+ or Artistic or Artistic-dist, GPL-1+ or Artistic, and BSD-3-clause-GENERIC, GPL-1+ or Artistic, and BSD-4-clause-POWERDOG, GPL-1+ or Artistic, and Expat, GPL-1+ or Artistic, and Unicode, GPL-2+, GPL-2+ or Artistic, GPL-3+-WITH-BISON-EXCEPTION, LGPL-2.1, REGCOMP, REGCOMP, and GPL-1+ or Artistic, SDBM-PUBLIC-DOMAIN, TEXT-TABS, Unicode, ZLIB
+perl-modules-5.40	5.40.1-6	perl	5.40.1-6	Artistic, Artistic or GPL-1+, Artistic or GPL-1+ or Artistic-dist, Artistic-2, Artistic-dist, BSD-3-clause, BSD-3-clause-GENERIC, BSD-3-clause-with-weird-numbering, BSD-4-clause-POWERDOG, BZIP, CC0-1.0, DONT-CHANGE-THE-GPL, Expat, Expat or GPL-1+ or Artistic, FSFAP, GPL-1+, GPL-1+ or Artistic, GPL-1+ or Artistic or Artistic-dist, GPL-1+ or Artistic, and BSD-3-clause-GENERIC, GPL-1+ or Artistic, and BSD-4-clause-POWERDOG, GPL-1+ or Artistic, and Expat, GPL-1+ or Artistic, and Unicode, GPL-2+, GPL-2+ or Artistic, GPL-3+-WITH-BISON-EXCEPTION, LGPL-2.1, REGCOMP, REGCOMP, and GPL-1+ or Artistic, SDBM-PUBLIC-DOMAIN, TEXT-TABS, Unicode, ZLIB
+pinentry-curses	1.3.1-2	pinentry	1.3.1-2	GPL-2, GPL-2+, LGPL-3+, LGPL-3+ or GPL-2+, X11
+pipewire	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+pipewire-bin	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+pipewire-pulse	1.4.2-1~qcom1	pipewire	1.4.2-1~qcom1	BZIP2, Expat, Expat and LGPL-2.1+, FFTPACK, GPL-2, LGPL-2+, LGPL-2+ and LGPL-2.1+ and Expat, LGPL-2.1+
+polkitd	126-2	policykit-1	126-2	Expat, LGPL-2.0+, LGPL-2.0+ and Expat
+ppp	2.5.2-1+1	ppp	2.5.2-1+1	see copyright file
+procps	2:4.0.4-9	procps	2:4.0.4-9	GPL-2.0+, LGPL-2.0+, LGPL-2.1+
+psmisc	23.7-2	psmisc	23.7-2	GPL-2+
+publicsuffix	20250328.1952-0.1	publicsuffix	20250328.1952-0.1	CC0, MPL-2.0
+python-apt-common	3.0.0	python-apt	3.0.0	GPL-2+, Permissive
+python3	3.13.5-1	python3-defaults	3.13.5-1	see copyright file
+python3-apt	3.0.0	python-apt	3.0.0	GPL-2+, Permissive
+python3-blinker	1.9.0-1	blinker	1.9.0-1	Expat
+python3-certifi	2025.1.31+ds-1	python-certifi	2025.1.31+ds-1	GPL-2, MPL-2
+python3-chardet	5.2.0+dfsg-2	chardet	5.2.0+dfsg-2	LGPL-2.1+, non-given-in-english
+python3-charset-normalizer	3.4.2-1	python-charset-normalizer	3.4.2-1	CC-BY-SA-3.0, CC-BY-SA-3.0 or PUBLIC-DOMAIN, Expat, PUBLIC-DOMAIN
+python3-click	8.2.0+0.really.8.1.8-1	python-click	8.2.0+0.really.8.1.8-1	BSD-3-clause
+python3-debconf	1.5.91	debconf	1.5.91	no copyright file
+python3-debian	1.0.1	python-debian	1.0.1	GPL-2+, GPL-3+
+python3-debianbts	4.1.1	python-debianbts	4.1.1	see copyright file
+python3-flask	3.1.1-1	flask	3.1.1-1	BSD-3-clause
+python3-gi	3.50.0-4+b1	pygobject	3.50.0-4	Expat, LGPL-2.1+
+python3-idna	3.10-1	python-idna	3.10-1	BSD-3-clause, BSD-3-clause and PSF-2, BSD-3-clause and PSF-2 and Unicode, PSF-2, Unicode
+python3-itsdangerous	2.2.0-2	python-itsdangerous	2.2.0-2	BSD-3-clause, GPL-3+
+python3-jinja2	3.1.6-1	jinja2	3.1.6-1	see copyright file
+python3-markupsafe	2.1.5-1+b4	markupsafe	2.1.5-1	see copyright file
+python3-minimal	3.13.5-1	python3-defaults	3.13.5-1	see copyright file
+python3-msgpack	1.0.3-3+b5	python-msgpack	1.0.3-3	Apache-2.0, GPL-2+
+python3-olefile	0.47-1	olefile	0.47-1	BSD-3-clause
+python3-paho-mqtt	2.1.0-1	python-paho-mqtt	2.1.0-1	BSD-3-Clause, BSD-3-clause, EPL-1.0, EPL-1.0 or BSD-3-Clause
+python3-pil	11.1.0-5+deb13u4	pillow	11.1.0-5+deb13u4	see copyright file
+python3-protobuf	3.21.12-11	protobuf	3.21.12-11	Apache-2.0, BSD-3-Clause, BSD-3-Clause~Google, Expat, GPL-3, GPLWithACException, Public-Domain, Public-Domain or Expat
+python3-pycriu	4.1.1-1	criu	4.1.1-1	GPL-2, GPL-2+, LGPL-2.1+
+python3-pyotp	2.9.0-2	python-pyotp	2.9.0-2	Expat
+python3-qrcode	8.2-1	python-qrcode	8.2-1	BSD-3-clause
+python3-reportbug	13.2.0	reportbug	13.2.0	GPL-1+, GPL-2, other
+python3-requests	2.32.3+dfsg-5+deb13u1	requests	2.32.3+dfsg-5+deb13u1	Apache, other
+python3-serial	3.5-2	pyserial	3.5-2	see copyright file
+python3-urllib3	2.3.0-3+deb13u1	python-urllib3	2.3.0-3+deb13u1	Expat
+python3-werkzeug	3.1.3-2	python-werkzeug	3.1.3-2	BSD-3-clause, CC-BY-SA-2.5, CC-BY-SA-2.5 or CC-BY-SA-3.0, CC-BY-SA-3.0, GAP
+python3.13	3.13.5-2+deb13u2	python3.13	3.13.5-2+deb13u2	* Permission to use this software in any way is granted without, By obtaining, using, and/or copying this software and/or its, Permission  is  hereby granted,  free  of charge,  to  any person, Permission is hereby granted, free of charge, to any person obtaining, Permission to use, copy, modify, and distribute this software and, Permission to use, copy, modify, and distribute this software and its, Permission to use, copy, modify, and distribute this software for any, Redistribution and use in source and binary forms, with or without, This software is provided 'as-is', without any express or implied, This software is provided as-is, without express or implied
+python3.13-minimal	3.13.5-2+deb13u2	python3.13	3.13.5-2+deb13u2	* Permission to use this software in any way is granted without, By obtaining, using, and/or copying this software and/or its, Permission  is  hereby granted,  free  of charge,  to  any person, Permission is hereby granted, free of charge, to any person obtaining, Permission to use, copy, modify, and distribute this software and, Permission to use, copy, modify, and distribute this software and its, Permission to use, copy, modify, and distribute this software for any, Redistribution and use in source and binary forms, with or without, This software is provided 'as-is', without any express or implied, This software is provided as-is, without express or implied
+qbootctl	0.2.2-1	qbootctl	0.2.2-1	BSD-3-Clause, BSD-3-clause, GPL-2, GPL-3+, LGPL-2.1+
+read-edid	3.0.2-1.1+b1	read-edid	3.0.2-1.1	GPL-2, GPL-2+
+readline-common	8.2-6	readline	8.2-6	GFDL-NIV-1.3+, GPL-2+, GPL-3, GPL-3+, ISC-no-attribution
+reportbug	13.2.0	reportbug	13.2.0	GPL-1+, GPL-2, other
+rfkill	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+rmtfs	1.1-4	rmtfs	1.1-4	BSD-3-Clause
+rsync	3.5.0+ds1-0+deb13u1	rsync	3.5.0+ds1-0+deb13u1	FSF-unlimited, FSFULLR, GPL-2, GPL-2+, GPL-3, GPL-3 with Autoconf-data exception, GPL-3 with OpenSSL-xxhash exception, GPL-3+, GPL-3+ and public-domain, GPL-3+ with OpenSSL-xxhash exception, ISC, PostgreSQL, public-domain, snprintf
+rtkit	0.13-5.1+b1	rtkit	0.13-5.1	Expat, GPL-3+
+runc	1.1.15+ds1-2+b4	runc	1.1.15+ds1-2	Apache-2.0, GPL-3+, GPL-3+ or Apache-2.0
+runit-helper	2.16.4	dh-runit	2.16.4	GPL-3+
+sed	4.9-2+deb13u1	sed	4.9-2+deb13u1	BSD-4-clause-UC, BSL-1, GFDL-NIV-1.3+, GPL-3+, GPL-3+ and ISC, ISC, X11, pcre
+sensible-utils	0.0.25	sensible-utils	0.0.25	All-permissive, GPL-2+, configure, installsh
+sgml-base	1.31+nmu1	sgml-base	1.31+nmu1	GPL-2+
+shared-mime-info	2.4-5+b2	shared-mime-info	2.4-5	see copyright file
+sqv	1.3.0-3+b2	rust-sequoia-sqv	1.3.0-3	LGPL-2.0-or-later
+ssh	1:10.0p1-7+deb13u4	openssh	1:10.0p1-7+deb13u4	BSD-2-clause, BSD-3-clause, Expat-with-advertising-restriction, Mazieres-BSD-style, OpenSSH, Powell-BSD-style, public-domain
+sudo	1.9.16p2-3+deb13u2	sudo	1.9.16p2-3+deb13u2	BSD-2-Clause, BSD-3-Clause, GPL-2+, ISC, Zlib, other, public-domain
+systemd	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+systemd-boot	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+systemd-boot-efi-arm64-signed	257.13-1~deb13u1	systemd-boot-efi-arm64-signed	257.13+1~deb13u1	LGPL-2.1+, public-domain
+systemd-boot-tools	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+systemd-cryptsetup	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+systemd-sysv	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+systemd-timesyncd	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+sysvinit-utils	3.14-4	sysvinit	3.14-4	GPL-2.0, GPL-2.0+, GPL-3.0, LGPL-2.1+
+tailscale	1.104.2	tailscale	1.104.2	no copyright file
+tango-icon-theme	0.9.0-1	tango-icon-theme	0.9.0-1	CC0-1.0, LGPL-2.1
+tar	1.35+dfsg-3.1	tar	1.35+dfsg-3.1	GPL-2+, GPL-3+, GPL-3+ with Bison exception, LGPL-2.1+, LGPL-3+
+tini	0.19.0-3+b7	tini	0.19.0-3	Expat
+tqftpserv	1.1-4	tqftpserv	1.1-4	BSD-3-Clause
+traceroute	1:2.1.6-1	traceroute	1:2.1.6-1	GPL-2+, LGPL-2.1+
+tree	2.2.1-1	tree	2.2.1-1	GPL-2+, LGPL-2.1+
+tshark	4.4.19-0+deb13u1	wireshark	4.4.19-0+deb13u1	BSD-2-clause, BSD-2-clause-NetBSD, BSD-2-clause-no-conditions, BSD-3-clause, BSD-3-clause-Endance, CC0-1.0, FSL-Kaz, GPL-2+, GPL-3+, LGPL-2+, public-domain
+tzdata	2026b-0+deb13u1	tzdata	2026b-0+deb13u1	public-domain
+u-boot-efi-dtb	3	u-boot-efi-dtb	3	GPL-2+
+ucf	3.0052	ucf	3.0052	GPL-2
+udev	257.13-1~deb13u1	systemd	257.13-1~deb13u1	CC0-1.0, Expat, GPL-2 with Linux-syscall-note exception, GPL-2+, LGPL-2.1+, public-domain
+udisks2	2.10.1-12.1+deb13u1	udisks2	2.10.1-12.1+deb13u1	GPL-2+, LGPL-2+
+unzip	6.0-29	unzip	6.0-29	see copyright file
+usb-modeswitch	2.6.1-4+b2	usb-modeswitch	2.6.1-4	BSD-2-clause, GPL-2+
+usb-modeswitch-data	20191128-7	usb-modeswitch-data	20191128-7	see copyright file
+usbutils	1:018-2	usbutils	1:018-2	CC0-1.0, GPL-2.0, GPL-2.0 or GPL-3.0, GPL-2.0+, GPL-3.0, LGPL-2.1+, MIT
+util-linux	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+util-linux-extra	2.41-5	util-linux	2.41-5	BSD-2-clause, BSD-3-clause, BSD-4-clause, BSLA, Expat, GPL-2, GPL-2+, GPL-3+, ISC, LGPL, LGPL-2+, LGPL-2.1+, LGPL-3+, public-domain
+v4l-utils	1.30.1-1	v4l-utils	1.30.1-1	no copyright file
+vim	2:9.1.1230-2	vim	2:9.1.1230-2	Apache, Apache or Expat, Artistic-1, BSD-2-clause, BSD-3-clause, Compaq, EDL-1, Expat, Expat or GPL-2, Expat or Vim, GPL-1+, GPL-1+ or Artistic-1, GPL-2, GPL-2+, GPL-3+, LGPL-2.1+, OPL-1+, UC, Unlicense, Vim, Vim-Regexp, X11, XPM, public-domain
+vim-common	2:9.1.1230-2	vim	2:9.1.1230-2	Apache, Apache or Expat, Artistic-1, BSD-2-clause, BSD-3-clause, Compaq, EDL-1, Expat, Expat or GPL-2, Expat or Vim, GPL-1+, GPL-1+ or Artistic-1, GPL-2, GPL-2+, GPL-3+, LGPL-2.1+, OPL-1+, UC, Unlicense, Vim, Vim-Regexp, X11, XPM, public-domain
+vim-runtime	2:9.1.1230-2	vim	2:9.1.1230-2	Apache, Apache or Expat, Artistic-1, BSD-2-clause, BSD-3-clause, Compaq, EDL-1, Expat, Expat or GPL-2, Expat or Vim, GPL-1+, GPL-1+ or Artistic-1, GPL-2, GPL-2+, GPL-3+, LGPL-2.1+, OPL-1+, UC, Unlicense, Vim, Vim-Regexp, X11, XPM, public-domain
+vim-tiny	2:9.1.1230-2	vim	2:9.1.1230-2	Apache, Apache or Expat, Artistic-1, BSD-2-clause, BSD-3-clause, Compaq, EDL-1, Expat, Expat or GPL-2, Expat or Vim, GPL-1+, GPL-1+ or Artistic-1, GPL-2, GPL-2+, GPL-3+, LGPL-2.1+, OPL-1+, UC, Unlicense, Vim, Vim-Regexp, X11, XPM, public-domain
+vulkan-tools	1.4.304.0+dfsg1-1	vulkan-tools	1.4.304.0+dfsg1-1	Apache-2.0, MIT, MIT or Apache-2.0
+wamerican	2020.12.07-4	scowl	2020.12.07-4	see copyright file
+wget	1.25.0-2	wget	1.25.0-2	see copyright file
+whiptail	0.52.25-1	newt	0.52.25-1	GPL-2+, LGPL-2
+wireless-regdb	2026.02.04-1~deb13u1	wireless-regdb	2026.02.04-1~deb13u1	ISC
+wireplumber	0.5.8-2	wireplumber	0.5.8-2	MIT
+wireshark-common	4.4.19-0+deb13u1	wireshark	4.4.19-0+deb13u1	BSD-2-clause, BSD-2-clause-NetBSD, BSD-2-clause-no-conditions, BSD-3-clause, BSD-3-clause-Endance, CC0-1.0, FSL-Kaz, GPL-2+, GPL-3+, LGPL-2+, public-domain
+wpasupplicant	2:2.10-24	wpa	2:2.10-24	BSD-3-clause, BSD-3-clause or GPL-2, GPL-2, ISC, public-domain
+wtmpdb	0.73.0-3+deb13u1	wtmpdb	0.73.0-3+deb13u1	BSD-2-Clause, GPL-2+
+x11-common	1:7.7+24+deb13u1	xorg	1:7.7+24+deb13u1	see copyright file
+x11-utils	7.7+7	x11-utils	7.7+7	see copyright file
+xauth	1:1.1.2-1.1	xauth	1:1.1.2-1.1	see copyright file
+xdg-user-dirs	0.18-2	xdg-user-dirs	0.18-2	see copyright file
+xdg-utils	1.2.1-2	xdg-utils	1.2.1-2	Expat
+xkb-data	2.42-1	xkeyboard-config	2.42-1	see copyright file
+xml-core	0.19	xml-core	0.19	GPL-2+
+xz-utils	5.8.1-1	xz-utils	5.8.1-1	0BSD, FSFUL, FSFULLR, GPL-2+, GPL-3.0-or-later-WITH-Autoconf-exception-macro, LGPL-2.1+, PD, PD-debian, noderivs, none, permissive-nowarranty
+zip	3.0-15	zip	3.0-15	see copyright file
+zlib1g	1:1.3.dfsg+really1.3.1-1+b1	zlib	1:1.3.dfsg+really1.3.1-1	Zlib
+zram-tools	0.3.7-1	zram-tools	0.3.7-1	ISC
+zstd	1.5.7+dfsg-1	libzstd	1.5.7+dfsg-1	BSD-3-clause, BSD-3-clause or GPL-2, Expat, GPL-2, zlib

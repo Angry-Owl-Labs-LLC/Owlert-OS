@@ -1,0 +1,27 @@
+MediaTek firmware licence (LICENCE.mediatek) for the MediaTek MT7961 Wi-Fi/Bluetooth firmware in Owlert OS:
+  /lib/firmware/mediatek/{BT_RAM_CODE_MT7961_*,WIFI_MT7961_patch_mcu_*,WIFI_RAM_CODE_MT7961_*}.bin
+  /opt/owlert/Developer/OHOS_v2.0.1.0/firmware/mediatek/ (the same files)
+The two paragraphs below are copied verbatim from Debian's firmware-mediatek 20250410-2 package,
+/usr/share/doc/firmware-mediatek/copyright (the files they name include the ones above).
+
+Files: mediatek/BT_RAM_CODE_*.bin mediatek/mt7610*.bin mediatek/mt7615*.bin
+ mediatek/mt7622*.bin mediatek/mt7650e.bin mediatek/mt7662u*.bin
+ mediatek/mt7663*.bin mediatek/mt7668*.bin mediatek/mt791*.bin
+ mediatek/mt798*.bin mediatek/WIFI_MT79*.bin mediatek/WIFI_RAM_CODE_*.bin
+ mediatek/mt7996/*.bin mediatek/mt8173/vpu_*.bin mediatek/mt81*/scp.img
+ mediatek/sof/* mediatek/sof-tplg/*
+Copyright: MediaTek Inc.
+License: binary-redist-MediaTek
+
+License: binary-redist-MediaTek
+ MediaTek Inc. grants permission to use and redistribute aforementioned firmware
+ files for the use with devices containing MediaTek chipsets, but not as part of
+ the Linux kernel or in any other form which would require these files
+ themselves to be covered by the terms of the GNU General Public License or the
+ GNU Lesser General Public License.
+ .
+ These firmware files are distributed in the hope that they will be useful, but
+ are provided WITHOUT ANY WARRANTY, INCLUDING BUT NOT LIMITED TO IMPLIED
+ WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+Comment:
+ This is LICENCE.mediatek, but slightly reformatted for line length.
