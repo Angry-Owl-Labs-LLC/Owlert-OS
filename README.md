@@ -11,6 +11,7 @@
   <a href="https://owlertos.com/licenses"><img alt="Licences page" src="https://img.shields.io/badge/owlertos.com-licenses-1e62ff?style=flat-square"></a>
   <a href="WRITTEN-OFFER.md"><img alt="Written offer" src="https://img.shields.io/badge/written%20offer-3%20years-4697fa?style=flat-square"></a>
   <a href="releases/README.md"><img alt="Releases covered" src="https://img.shields.io/badge/releases-OHOS__v2.0.1.0-0b1a3a?style=flat-square"></a>
+  <a href="#support-us"><img alt="Support us" src="https://img.shields.io/badge/support%20us-crypto-1e62ff?style=flat-square"></a>
 </p>
 
 ---
@@ -58,6 +59,35 @@ This repository is where we keep our side of those licences:
 - **The Qualcomm and MediaTek firmware itself.** Those are binary-only blobs we redistribute unmodified under their own
   licences (texts in [`LICENSES/`](LICENSES)).
 - **Anything private.** No accounts, keys, device data or internal systems, ever.
+
+## Support us
+
+Owlert is made by Angry Owl Labs. If Owlert OS is useful to you, you can support our work with crypto. Thank you! 💙
+
+<table>
+  <tr>
+    <td><img src="assets/support/bitcoin.svg" width="40" height="40" alt="Bitcoin"></td>
+    <td><b>Bitcoin</b></td>
+    <td><code>bc1qz7xaxn5czspya8gp2r9060sa5vcthrvyug765e</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/support/ethereum.svg" width="40" height="40" alt="Ethereum"></td>
+    <td><b>Ethereum</b><br><sub>ETH, USDC or USDT</sub></td>
+    <td><code>0x5B3819D1018012065964FCcEb8481C62Ce2a48d2</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/support/solana.svg" width="40" height="40" alt="Solana"></td>
+    <td><b>Solana</b></td>
+    <td><code>H4kTscJjpZrawJWBSSGfEXM8hwDXxB1GPGFCia75mgTJ</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/support/zcash.svg" width="40" height="40" alt="Zcash"></td>
+    <td><b>Zcash</b></td>
+    <td><code>t1aBNYFx4uMdjK9tgb62pWxQp6g5A7T8r8x</code></td>
+  </tr>
+</table>
+
+<sub>Send only on the network named beside each address (USDC and USDT on Ethereum). Crypto sent on another network can't be recovered.</sub>
 
 ## Trademarks
 
