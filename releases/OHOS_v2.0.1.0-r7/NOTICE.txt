@@ -1,0 +1,32 @@
+Owlert OS OHOS_v2.0.1.0 (image r7) - third-party notices
+
+Owlert OS's own components (the Owlert services under /opt/owlert and /usr/local/sbin/owlert-*, their units and
+the Owlert image scripts) are proprietary software of Angry Owl Labs LLC. Everything else in this image is
+third-party software under its own licence; nothing here restricts the rights those licences give you.
+
+Source code and written offer: https://owlertos.com/licenses (the corresponding source of the GPL/LGPL components
+of this release, and our offer to send it for at least three years). Ask: support@owlertos.com,
+subject "Owlert OS source request".
+
+Licence texts shipped with this image: /usr/share/doc/owlert/licenses/
+  QUALCOMM-LICENSE.txt           Qualcomm boot firmware (xbl, tz, hyp, rpm, ..., the EDL programmer), from
+                                 Arduino's UNO Q Debian image 20260528-558
+  MEDIATEK-FIRMWARE-LICENSE.txt  MediaTek MT7961 Wi-Fi/Bluetooth firmware (/lib/firmware/mediatek/)
+
+Main third-party components:
+- Debian GNU/Linux 13 (trixie) packages (559 installed, incl. Arduino's and Qualcomm's packages): each package's
+  copyright and licence: /usr/share/doc/<package>/copyright; sources: Debian (https://sources.debian.org,
+  https://snapshot.debian.org) and the written offer above.
+- Linux kernel, Arduino build: package linux-image-7.0.0-g122c2c22d838 7.0.0-g122c2c22d838-1 (GPL-2.0-only with Linux-syscall-note).
+  Source: Arduino's kernel tree for the UNO Q (arduino/linux-qcom), commit 122c2c22d838.
+- Arduino-ESP32 core 3.3.8 (LGPL-2.1 core, Apache-2.0 HAL), statically linked into the ESP32 sensor firmware
+  (/opt/owlert/Developer/OHOS_v2.0.1.0/firmware/): https://github.com/espressif/arduino-esp32
+- esptool 5.3.0 (GPL-2.0-or-later; the packaged binary bundles CPython and Python libraries):
+  /opt/owlert/nest/esp-tools/esptool; source https://github.com/espressif/esptool
+- OpenOCD (GPL-2.0-or-later): /opt/openocd/bin/openocd; upstream https://openocd.org
+- Tailscale client (BSD-3-Clause), built from Tailscale's source: /usr/share/doc/tailscale/ (licence, how it was
+  built); source https://github.com/tailscale/tailscale
+- flask-sock 0.7.0 (MIT, Miguel Grinberg) for the device web terminal: /usr/local/lib/python3*/dist-packages/flask_sock/
+  (licence next to it); source https://github.com/miguelgrinberg/flask-sock
+- ESP32 display firmware libraries: LVGL (MIT), GFX Library for Arduino (BSD), Poppins font (SIL OFL-1.1)
+
