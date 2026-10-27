@@ -1,7 +1,10 @@
 # Releases
 
-Every Owlert OS release we have distributed, newest first. Each folder has the release's package list; the corresponding
-source archives are attached to the matching GitHub release as they are assembled, and the
+Every Owlert OS release we have distributed, newest first. Each folder has the release's package list and a
+`SOURCES.md` saying where each source archive is. The archives are GitHub releases of this repository:
+[kernel](../../../releases/tag/kernel-7.0.0-g122c2c22d838),
+[Debian packages](../../../releases/tag/sources-debian-OHOS_v2.0.1.0) and
+[tools + ESP32 firmware relink kits](../../../releases/tag/sources-tools-20261026). The
 [written offer](../WRITTEN-OFFER.md) covers all of them for at least three years after each was last distributed.
 
 ## Flashable images (Arduino® UNO Q)
