@@ -11,7 +11,8 @@ Every Owlert OS release we have distributed, newest first. Each folder has the r
 
 | Release | Built | Packages | Notes |
 |---|---|---|---|
-| [`OHOS_v2.0.1.0-r7`](OHOS_v2.0.1.0-r7) | 2026-10-26 | 559 | Current Stable release. Same packages as r6; Owlert software fixes only. |
+| [`OHOS_v2.0.1.0-r8`](OHOS_v2.0.1.0-r8) | 2026-10-26 | 559 | Current Stable release, the first signed for the Stable channel. Same software as r7. |
+| [`OHOS_v2.0.1.0-r7`](OHOS_v2.0.1.0-r7) | 2026-10-26 | 559 | Superseded by r8. Same packages as r6; Owlert software fixes only. |
 | [`OHOS_v2.0.1.0-r6`](OHOS_v2.0.1.0-r6) | 2026-10-26 | 559 | Superseded by r7. Tailscale from source, smaller image. |
 | [`OHOS_v2.0.1.0-r5`](OHOS_v2.0.1.0-r5) | 2026-10-26 | 755 | Superseded by r6. |
 | [`OHOS_v2.0.1.0-r4`](OHOS_v2.0.1.0-r4) | 2026-10-25 | 755 | Superseded by r5. |
@@ -19,7 +20,7 @@ Every Owlert OS release we have distributed, newest first. Each folder has the r
 | [`OHOS_v2.0.1.0-r2`](OHOS_v2.0.1.0-r2) | 2026-10 | 729 | Superseded. |
 | [`OHOS_v2.0.1.0-r1`](OHOS_v2.0.1.0-r1) | 2026-10 | 729 | Withdrawn. |
 
-All seven are built on Arduino's UNO Q Debian image `arduino-unoq-debian-image-20260528-558` with the Arduino kernel
+All eight are built on Arduino's UNO Q Debian image `arduino-unoq-debian-image-20260528-558` with the Arduino kernel
 `7.0.0-g122c2c22d838` (`arduino/linux-qcom` @ `122c2c22d838`).
 
 ## Update bundles (installed on existing Owlerts)
